@@ -3,7 +3,7 @@ const fs = require('fs');
 
 (async () => {
 
-    const browser = await puppeteer.launch({executablePath: '/usr/bin/chromium'});
+    const browser = await puppeteer.launch({executablePath: '/usr/bin/chromium', args: ['--no-sandbox', '--disable-setuid-sandbox']});
     const surplus = {};
     let firstPull = false;
     let diffArr = [];
