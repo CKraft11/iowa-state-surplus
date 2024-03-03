@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.tag-computer{
+    background-color: #ff3b30 !important;
+}
+.tag-office{
+    background-color: #ff9500 !important;
+}
+.tag-networking{
+    background-color: #ffcc00 !important;
+}
+.tag-furniture\/appliances{
+    background-color: #34c759 !important;
+}
+.tag-scientific{
+    background-color: #00c7be !important;
+}
+.tag-monitor-tv{
+    background-color: #007aff !important;
+}
+.tag-av{
+    background-color: #5856d6 !important;
+}
+.tag-projector{
+    background-color: #af52de !important;
+}
+.tag-apple{
+    background-color: #ff2d55 !important;
+}
+.tag-other{
+    background-color: #a2845e !important;
+}
