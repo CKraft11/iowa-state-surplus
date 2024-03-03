@@ -1,0 +1,88 @@
+<!doctype html>
+<html data-theme="dim">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="dist/output.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@2.43.1/dist/full.css" rel="stylesheet" type="text/css" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="src/sorttable.js"></script>
+  <script>
+    function search() {
+      // Declare variables
+      var input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("searchBar");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("itemTable");
+      tr = table.getElementsByTagName("tr");
+    
+      // Loop through all table rows, and hide those who don't match the search query
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByClassName("item-name")[0];
+        if (td) {
+          txtValue = td.textContent || td.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+    }
+    </script>
+</head>
+<body>
+    <div class="flex w-full justify-center place-items-center p-5">
+        <div class="flex w-full navbar bg-base-200 rounded-box">
+            <a class="m-2 normal-case text-xl">Iowa State Surplus Inventory</a>
+          </div>
+    </div>
+    <div class="w-full flex justify-center place-items-center">
+        <div class="flex w-full">
+            <div class="mx-5 my-0 grid h-full flex-grow card place-items-start">
+                <label class="input input-bordered flex items-center gap-2">
+                    <input id="searchBar"  type="text" class="grow" onkeyup="search()" placeholder="Search" />
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4 opacity-70"><path fill-rule="evenodd" d="M9.965 11.026a5 5 0 1 1 1.06-1.06l2.755 2.754a.75.75 0 1 1-1.06 1.06l-2.755-2.754ZM10.5 7a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z" clip-rule="evenodd" /></svg>
+                </label>
+            </div>
+        </div>
+    </div>            
+    <div class="w-full flex justify-center place-items-center">
+        <div class="flex w-full">
+            <div class="m-5 grid h-full flex-grow card bg-base-300 rounded-box place-items-center">
+                <div class="overflow-x-auto flex-1 w-full">
+                    <table id="itemTable" class="overflow-hidden border-separate border-spacing-0.5 border border-slate-500 table-fixed sortable table table-compact w-full">
+                    <thead>
+                        <tr> 
+                            <th class="w-4/12" id="items">Item Name</th>
+                            <th class="w-4/12" id="items">Tags</th>  
+                            <th class="w-1/12" id="items">Stock</th>
+                            <th class="w-1/12" id="items">Sold</th> 
+                            <th class="overflow-x-hidden w-1/12" id="items">Date Added</th>
+                            <th class="w-1/12 sorttable_nosort">Item Link</th> 
+                        </tr>
+                    </thead> 
+                    <tbody>  
+                    </tbody> 
+                    <tfoot>
+                        <tr>
+                            <th class="sorttable_nosort">Item Name</th>
+                            <th class="sorttable_nosort">Tags</th>  
+                            <th class="sorttable_nosort">Stock</th>
+                            <th class="sorttable_nosort">Sold</th>  
+                            <th class="sorttable_nosort">Date Added</th>
+                            <th class="sorttable_nosort">Item Link</th>  
+                            </tr>
+                    </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+      <footer class="footer footer-center p-4 bg-base-300 text-base-content">
+        <div>
+          <p>Copyright © 2024 - Caden Kraft - This is an Unofficial Site not Affiliated With Iowa State University</p>
+        </div>
+      </footer>
+</body>
+</html>

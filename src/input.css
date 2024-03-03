@@ -2,7 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
+    content: " \25B4\25BE" 
+}
 .tag-Computer{
     background-color: #ff3b30 !important;
 }

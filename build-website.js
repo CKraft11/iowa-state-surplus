@@ -11,22 +11,36 @@ for(i=0;i<surplusDb.items.length;i++){
     let tags = Object.values(surplusDb.items[i])[4]
     console.log(itemName);
     let html = "";
-    html += '<tr>\n';
-    html += '   <td></td>\n'
-    html += '   <td>'+itemName+'</td>\n'
-    html += '   <td class="flex flex-row">\n'
+    html += '                       <tr class=\"item hover\">\n';
+    //html += '                          <td></td>\n'
+    html += '                          <td class=\"item-name\">\n'
+    html += '                               <div class=\"overflow-x-hidden\">'+itemName+'</div>\n'
+    html += '                          </td>\n'
+    html += '                          <td class="flex flex-row">\n'
     for(j=0;j<tags.length;j++){
-        html += '       <div class=\"font-semibold tag-' + tags[j] + ' mx-1 badge text-black\">' + tags[j] + '</div>\n';
+        html += '                              <div class=\"font-semibold tag-' + tags[j] + ' mx-1 badge text-black\">' + tags[j] + '</div>\n';
     }
-    html += '   </td>\n' 
-    html += '   <td>'+quantity+'</td>\n'
-    html += '   <td>'+orgQuantity+'</td>\n'
-    html += '   <td>'+dateAdded+'</td>\n'
-    html += '   <td>\n'
-    html += '       <a class=\"link-primary\" href=\"' + googleLink + '\">Search Product<a/>\n'
-    html += '   </td>\n'
-    html += '</tr>\n'
+    html += '                          </td>\n' 
+    html += '                          <td>'+quantity+'</td>\n'
+    html += '                          <td>'+(orgQuantity-quantity)+'</td>\n'
+    html += '                          <td>\n'
+    html += '                               <div class=\"overflow-x-hidden\">'+dateAdded+'</div>\n'
+    html += '                          </td>\n'
+    html += '                          <td>\n'
+    html += '                              <a class=\"link-primary\" href=\"' + googleLink + '\">Search Product<a/>\n'
+    html += '                          </td>\n'
+    html += '                       </tr>\n'
     console.log(i + "/" + surplusDb.items.length);
     finalHTML.push(html);
 }
-fs.writeFileSync('test.html', finalHTML.join(""));
+
+const fileData = fs.readFileSync('index-base.html', { encoding: "utf8" });
+const fileDataArray = fileData.split("\n");
+const newData = finalHTML.join("");
+const index = 65; // after each row to insert your data
+
+fileDataArray.splice(index, 0, newData); // insert data into the array
+
+const newFileData = fileDataArray.join("\n"); // create the new file
+
+fs.writeFileSync("index.html", newFileData, { encoding: "utf8" }); // save it
