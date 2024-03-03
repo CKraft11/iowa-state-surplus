@@ -8,7 +8,7 @@ const fs = require('fs');
     let firstPull = false;
     let diffArr = [];
     try {
-        const surplusDb = JSON.parse(fs.readFileSync('surplus-inventory.json', 'utf8'));
+        const surplusDb = JSON.parse(fs.readFileSync('/home/iowa-state-surplus/surplus-inventory.json', 'utf8'));
         let itemNamesDb = surplusDb.items.map(a => a.itemName);
         let oQuantityDb = surplusDb.items.map(a => a.originalQuantity);
         let dateAddedDb = surplusDb.items.map(a => a.dateAdded);
@@ -75,7 +75,7 @@ const fs = require('fs');
     surplus.items=diffArr;
     //var json = JSON.stringify(itemsArr);
     //console.log(json);
-    fs.writeFileSync('surplus-inventory.json', JSON.stringify(surplus, null, 4));
+    fs.writeFileSync('/home/iowa-state-surplus/surplus-inventory.json', JSON.stringify(surplus, null, 4));
     //onsole.log(surplus);
     await browser.close();
 })();

@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const surplusDb = JSON.parse(fs.readFileSync('surplus-inventory.json', 'utf8'));
+const surplusDb = JSON.parse(fs.readFileSync('/home/iowa-state-surplus/surplus-inventory.json', 'utf8'));
 let finalHTML = [];
 for(i=0;i<surplusDb.items.length;i++){
     let itemName = Object.values(surplusDb.items[i])[0]
@@ -34,7 +34,7 @@ for(i=0;i<surplusDb.items.length;i++){
     finalHTML.push(html);
 }
 
-const fileData = fs.readFileSync('index-base.html', { encoding: "utf8" });
+const fileData = fs.readFileSync('/home/iowa-state-surplus/index-base.html', { encoding: "utf8" });
 const fileDataArray = fileData.split("\n");
 const newData = finalHTML.join("");
 const index = 65; // after each row to insert your data
@@ -43,4 +43,4 @@ fileDataArray.splice(index, 0, newData); // insert data into the array
 
 const newFileData = fileDataArray.join("\n"); // create the new file
 
-fs.writeFileSync("index.html", newFileData, { encoding: "utf8" }); // save it
+fs.writeFileSync("/home/iowa-state-surplus/index.html", newFileData, { encoding: "utf8" }); // save it
