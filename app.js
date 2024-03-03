@@ -31,10 +31,10 @@ const fs = require('fs');
         [["Scientific"],["instrument","data","petri","beaker","funnel","solder","magni","heat","motor","electronic","scope","detect","pipet","meter","exchanger","pump","chem","physics","lab","machine","temp","scale","timer","bio","beckman","flask","therm","scien","calculator","fisher","humid","fuge","controller","ology"]],
         [["AV"],["extron","music","clicker","panasonic bb","polaroid","dvd","vcr","player","elmo","sound","media","remote","cam","shure","olympus","kramer","tripod","photo","video","camera","nikon","canon","sony","speaker","microphone"]],
         [["Monitor/TV"],["tv","monitor","17\" monitor","19\" monitor","22\" monitor","23\" monitor","24\" monitor","27\" monitor","29\" monitor","32\" monitor","34\" monitor"]],
-        [["Computer"],["hdmi","power supply","hard drive","netgear","display","vga","dvi","cable","kvm","ethernet","switch","sunmicro","supermicro","xbox","playstation","network","webcam","keyboard","802","router","asus","apple"," ups","surface","macbook","chromebook","dvd","logitech","dell", "imac","server"]],
+        [["Computer"],["hdmi","power supply","hard drive","netgear","display","vga","dvi","cable","kvm","ethernet","switch","sunmicro","supermicro","xbox","playstation","network","webcam","keyboard","802","router","asus"," ups","surface","macbook","mac pro","chromebook","dvd","logitech","dell", "imac","server"]],
         [["Networking"],["kvm","24 port","48 port","switch","router","poe","ethernet","access point","firewall","netgear"]],
         [["Projector"],["panasonic pt","projector","epson","bulb","elmo"]],
-        [["Apple"],["apple","macbook","ipad","ipod","imac"]]
+        [["Apple"],["apple","macbook","ipad","ipod ","imac","mac pro"]]
     ];
 
     for(let i = 0; i < itemsArr.length; i++) {
