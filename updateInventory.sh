@@ -1,5 +1,6 @@
 #!/bin/bash
 date=$(date)
+cd /home/iowa-state-surplus/
 git pull origin main
 node app.js
 node build-website.js
