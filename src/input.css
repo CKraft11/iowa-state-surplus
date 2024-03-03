@@ -3,33 +3,33 @@
 @tailwind utilities;
 
 
-.tag-computer{
+.tag-Computer{
     background-color: #ff3b30 !important;
 }
-.tag-office{
+.tag-Office{
     background-color: #ff9500 !important;
 }
-.tag-networking{
+.tag-Networking{
     background-color: #ffcc00 !important;
 }
-.tag-furniture\/appliances{
+.tag-Furniture\/Appliances{
     background-color: #34c759 !important;
 }
-.tag-scientific{
+.tag-Scientific{
     background-color: #00c7be !important;
 }
-.tag-monitor-tv{
+.tag-Monitor\/TV{
     background-color: #007aff !important;
 }
-.tag-av{
+.tag-AV{
     background-color: #5856d6 !important;
 }
-.tag-projector{
+.tag-Projector{
     background-color: #af52de !important;
 }
-.tag-apple{
+.tag-Apple{
     background-color: #ff2d55 !important;
 }
-.tag-other{
+.tag-Other{
     background-color: #a2845e !important;
 }
