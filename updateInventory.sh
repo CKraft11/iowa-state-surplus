@@ -8,4 +8,3 @@ git add .
 git commit -m "Compiled Changes - $date"
 git config --global credential.helper store
 git push -u origin main
-touch updated.cron
