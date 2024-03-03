@@ -27,9 +27,9 @@ const fs = require('fs');
 
     let tags = [
         [["Office"],["label","pencil","dymo","stapler","paper","envelope","folder","file","binder","hole punch","brother","toner","cartridge","scan","laserjet","lexmark","organizer","printer", "paper", "d200", "scanner", "fax", "xerox"]],
-        [["Furniture/Appliances"],["desk","basket","mirror","table","shelv","drawer","shelf","frame","poster","pillow","lamp","clock","vacuum","cart","board","coffee","cabinet","microwave","bulletin","walnut","oak","carpet","chair","table","herman","flooring","wood"]],
+        [["Furniture/Appliances"],["desk","basket","mirror","table","shelv","drawer","shelf","frame","poster","pillow","lamp","clock","vacuum","cart","coffee","cabinet","microwave","bulletin","walnut","oak","carpet","chair","table","herman","flooring","wood"]],
         [["Scientific"],["instrument","data","petri","beaker","funnel","solder","magni","heat","motor","electronic","scope","detect","pipet","meter","exchanger","pump","chem","physics","lab","machine","temp","scale","timer","bio","beckman","flask","therm","scien","calculator","fisher","humid","fuge","controller","ology"]],
-        [["AV"],["cd","extron","music","clicker","panasonic bb","polaroid","dvd","vcr","player","elmo","sound","media","remote","cam","shure","olympus","kramer","tripod","photo","video","camera","nikon","canon","sony","speaker","microphone"]],
+        [["AV"],["extron","music","clicker","panasonic bb","polaroid","dvd","vcr","player","elmo","sound","media","remote","cam","shure","olympus","kramer","tripod","photo","video","camera","nikon","canon","sony","speaker","microphone"]],
         [["Monitor/TV"],["tv","monitor","17\" monitor","19\" monitor","22\" monitor","23\" monitor","24\" monitor","27\" monitor","29\" monitor","32\" monitor","34\" monitor"]],
         [["Computer"],["hdmi","power supply","hard drive","netgear","display","vga","dvi","cable","kvm","ethernet","switch","sunmicro","supermicro","xbox","playstation","network","webcam","keyboard","802","router","asus","apple"," ups","surface","macbook","chromebook","dvd","logitech","dell", "imac","server"]],
         [["Networking"],["kvm","24 port","48 port","switch","router","poe","ethernet","access point","firewall","netgear"]],
