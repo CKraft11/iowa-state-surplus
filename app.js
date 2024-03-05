@@ -15,7 +15,14 @@ const fs = require('fs');
     // } catch {
     //     firstPull = true;
     // }
-    const surplusDb = JSON.parse(fs.readFileSync('/home/iowa-state-surplus/surplus-inventory.json', 'utf8'));
+    let path = "/home/iowa-state-surplus/"
+
+    let devMode = false;
+
+    if(devMode == true){
+        path = ""
+    }
+    const surplusDb = JSON.parse(fs.readFileSync(path + 'surplus-inventory.json', 'utf8'));
     let itemNamesDb = surplusDb.items.map(a => a.itemName);
     let oQuantityDb = surplusDb.items.map(a => a.originalQuantity);
     let dateAddedDb = surplusDb.items.map(a => a.dateAdded);
@@ -24,18 +31,19 @@ const fs = require('fs');
     await page.goto("https://www.surplus.iastate.edu/sales/inventory");
     let items = await page.evaluate(() => document.querySelector('.wd-Grid-cell').innerHTML);
     let itemsArr = items.split('<br>\n ');
-    var date = itemsArr[0].substring(itemsArr[0].indexOf("Updated:") + 9,itemsArr[0].indexOf("Updated: ") + 18)
+    let date = itemsArr[0].substring(itemsArr[0].indexOf("Updated:") + 9,itemsArr[0].indexOf("Updated: ") + 18)
+    date = date.replace(/</g, "");
     surplus.latestUpdate = date;
     itemsArr.shift();
     itemsArr[itemsArr.length - 1] = itemsArr[itemsArr.length - 1].substring(0, itemsArr[itemsArr.length - 1].length - 6);
 
     let tags = [
-        [["Office"],["label","pencil","dymo","stapler","paper","envelope","folder","file","binder","hole punch","brother","toner","cartridge","scan","laserjet","lexmark","organizer","printer","paper","scanner","fax","xerox"]],
+        [["Office"],["copier","label","pencil","dymo","stapler","paper","envelope","folder","file","binder","hole punch","brother","toner","cartridge","scan","laserjet","lexmark","organizer","printer","paper","scanner","fax","xerox"]],
         [["Furniture/Appliances"],["desk","basket","mirror","table","shelv","drawer","shelf","frame","poster","pillow","lamp","clock","vacuum","cart","coffee","cabinet","microwave","bulletin","walnut","oak","carpet","chair","table","herman","flooring","wood"]],
-        [["Scientific"],["instrument","data","petri","beaker","funnel","solder","magni","heat","motor","electronic","scope","detect","pipet","meter","exchanger","pump","chem","physics","lab","machine","temp","scale","timer","bio","beckman","flask","therm","scien","calculator","fisher","humid","fuge","controller","ology"]],
-        [["AV"],["cd-","extron","music","clicker","panasonic bb","polaroid","dvd","vcr","player","elmo","sound","media","remote","cam","shure","olympus","kramer","tripod","photo","video","camera","nikon","canon","sony","speaker","microphone"]],
+        [["Scientific"],["electrolytic","dc power","benchtop","voltage","amperage","regulator","funtion","generator","instrument","data","petri","beaker","funnel","solder","magni","heat","motor","electronic","scope","detect","pipet","meter","exchanger","pump","chem","physics","lab","machine","temp","scale","timer","bio","beckman","flask","therm","scien","calculator","fisher","humid","fuge","controller","ology"]],
+        [["AV"],["casseette","headphones","yahmaha","ampli","cd-","extron","music","clicker","panasonic bb","polaroid","dvd","vcr","player","elmo","sound","media","remote","cam","shure","olympus","kramer","tripod","photo","video","camera","nikon","canon","sony","speaker","microphone"]],
         [["Monitor/TV"],["tv","monitor","17\" monitor","19\" monitor","22\" monitor","23\" monitor","24\" monitor","27\" monitor","29\" monitor","32\" monitor","34\" monitor"]],
-        [["Computer"],["hdmi","power supply","hard drive","netgear","display","vga","dvi","cable","kvm","ethernet","switch","sunmicro","supermicro","xbox","playstation","network","webcam","keyboard","802","router","asus"," ups","surface","macbook","mac pro","macpro","macintosh","mac mini","macmini","chromebook","dvd","logitech","dell", "imac","server"]],
+        [["Computer"],["thinkpad","thinkcentre","lenovo","hdmi","power supply","hard drive","netgear","display","vga","dvi","cable","kvm","ethernet","switch","sunmicro","supermicro","xbox","playstation","network","webcam","keyboard","802","router","asus"," ups","surface","macbook","mac pro","macpro","macintosh","mac mini","macmini","chromebook","dvd","logitech","dell", "imac","server"]],
         [["Networking"],["kvm","24 port","48 port","switch","router","poe","ethernet","access point","firewall","netgear"]],
         [["Projector"],["panasonic pt","projector","epson","bulb","elmo"]],
         [["Apple"],["apple","macbook","ipad","ipod ","imac","mac pro","macpro","macintosh","mac mini","macmini","xserve"]]
@@ -68,7 +76,6 @@ const fs = require('fs');
             }
             // if(firstPull = false){
                 if(itemNamesDb.indexOf(itemsArr[i]) >= 0) {
-                    console.log("duplicate item");
                     diffArr[i] = {itemName:itemsArr[i], quantity:quantity, originalQuantity:oQuantityDb[itemNamesDb.indexOf(itemsArr[i])],dateAdded:dateAddedDb[itemNamesDb.indexOf(itemsArr[i])],tags:itemTags};
                 } else {
                     diffArr[i] = {itemName:itemsArr[i], quantity:quantity, originalQuantity:quantity,dateAdded:date,tags:itemTags};
@@ -80,7 +87,7 @@ const fs = require('fs');
     surplus.items=diffArr;
     //var json = JSON.stringify(itemsArr);
     //console.log(json);
-    fs.writeFileSync('/home/iowa-state-surplus/surplus-inventory.json', JSON.stringify(surplus, null, 4));
+    fs.writeFileSync(path + 'surplus-inventory.json', JSON.stringify(surplus, null, 4));
     //onsole.log(surplus);
     await browser.close();
 })();
