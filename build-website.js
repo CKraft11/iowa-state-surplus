@@ -37,7 +37,7 @@ for(i=0;i<surplusDb.items.length;i++){
     html += '                               <div class=\"overflow-x-hidden\">'+dateAdded+'</div>\n'
     html += '                          </td>\n'
     html += '                          <td>\n'
-    html += '                              <a class=\"link-primary\" href=\"' + googleLink + '\">Search Product<a/>\n'
+    html += '                              <a class=\"link-primary\" href=\"' + googleLink + '\" target=\"_blank\">Search Product<a/>\n'
     html += '                          </td>\n'
     html += '                       </tr>\n'
     finalHTML.push(html);
@@ -46,7 +46,7 @@ for(i=0;i<surplusDb.items.length;i++){
 const fileData = fs.readFileSync(path + 'index-base.html', { encoding: "utf8" });
 const fileDataArray = fileData.split("\n");
 const newData = finalHTML.join("");
-const index = 65; // after each row to insert your data
+const index = 71; // after each row to insert your data
 
 fileDataArray.splice(index, 0, newData); // insert data into the array
 
