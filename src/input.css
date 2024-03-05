@@ -35,6 +35,9 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 .tag-Apple{
     background-color: #ff2d55 !important;
 }
+.tag-Tools{
+    background-color: #32ade6 !important;
+}
 .tag-Other{
     background-color: #a2845e !important;
 }

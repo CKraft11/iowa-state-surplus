@@ -46,6 +46,7 @@ const fs = require('fs');
         [["Computer"],["thinkpad","thinkcentre","lenovo","hdmi","power supply","hard drive","netgear","display","vga","dvi","cable","kvm","ethernet","switch","sunmicro","supermicro","xbox","playstation","network","webcam","keyboard","802","router","asus"," ups","surface","macbook","mac pro","macpro","macintosh","mac mini","macmini","chromebook","dvd","logitech","dell", "imac","server"]],
         [["Networking"],["kvm","24 port","48 port","switch","router","poe","ethernet","access point","firewall","netgear"]],
         [["Projector"],["panasonic pt","projector","epson","bulb","elmo"]],
+        [["Tools"],["mill","vise","lathe","drill","screwdriver","hammer","cnc","wrench","snap-on","snapon","socket","band saw","dewalt","milwaukee","wera","ryobi","allen key","planer","endmill","tool","caliper","micrometer","pliers","knipex","klien","cutter","bluepoint","impact","circular saw","grinder","oscillating","blade"]],
         [["Apple"],["apple","macbook","ipad","ipod ","imac","mac pro","macpro","macintosh","mac mini","macmini","xserve"]]
     ];
 
