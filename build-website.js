@@ -22,7 +22,7 @@ for(i=0;i<surplusDb.items.length;i++){
     }
     html += '                          </td>\n' 
     html += '                          <td>'+quantity+'</td>\n'
-    html += '                          <td>'+(orgQuantity-quantity)+'</td>\n'
+    html += '                          <td>'+(orgQuantity)+'</td>\n'
     html += '                          <td>\n'
     html += '                               <div class=\"overflow-x-hidden\">'+dateAdded+'</div>\n'
     html += '                          </td>\n'

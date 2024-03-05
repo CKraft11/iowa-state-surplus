@@ -7,14 +7,18 @@ const fs = require('fs');
     const surplus = {};
     let firstPull = false;
     let diffArr = [];
-    try {
-        const surplusDb = JSON.parse(fs.readFileSync('/home/iowa-state-surplus/surplus-inventory.json', 'utf8'));
-        let itemNamesDb = surplusDb.items.map(a => a.itemName);
-        let oQuantityDb = surplusDb.items.map(a => a.originalQuantity);
-        let dateAddedDb = surplusDb.items.map(a => a.dateAdded);
-    } catch {
-        firstPull = true;
-    }
+    // try {
+    //     const surplusDb = JSON.parse(fs.readFileSync('surplus-inventory.json', 'utf8'));
+    //     let itemNamesDb = surplusDb.items.map(a => a.itemName);
+    //     let oQuantityDb = surplusDb.items.map(a => a.originalQuantity);
+    //     let dateAddedDb = surplusDb.items.map(a => a.dateAdded);
+    // } catch {
+    //     firstPull = true;
+    // }
+    const surplusDb = JSON.parse(fs.readFileSync('/home/iowa-state-surplus/surplus-inventory.json', 'utf8'));
+    let itemNamesDb = surplusDb.items.map(a => a.itemName);
+    let oQuantityDb = surplusDb.items.map(a => a.originalQuantity);
+    let dateAddedDb = surplusDb.items.map(a => a.dateAdded);
     
     const page = await browser.newPage();
     await page.goto("https://www.surplus.iastate.edu/sales/inventory");
@@ -62,15 +66,16 @@ const fs = require('fs');
             if(itemTags.length == 0){
                 itemTags.push("Other");
             }
-            if(firstPull = false){
+            // if(firstPull = false){
                 if(itemNamesDb.indexOf(itemsArr[i]) >= 0) {
+                    console.log("duplicate item");
                     diffArr[i] = {itemName:itemsArr[i], quantity:quantity, originalQuantity:oQuantityDb[itemNamesDb.indexOf(itemsArr[i])],dateAdded:dateAddedDb[itemNamesDb.indexOf(itemsArr[i])],tags:itemTags};
                 } else {
                     diffArr[i] = {itemName:itemsArr[i], quantity:quantity, originalQuantity:quantity,dateAdded:date,tags:itemTags};
                 }
-            } else {
-                diffArr[i] = {itemName:itemsArr[i], quantity:quantity, originalQuantity:quantity,dateAdded:date,tags:itemTags};
-            }
+            // } else {
+            //     diffArr[i] = {itemName:itemsArr[i], quantity:quantity, originalQuantity:quantity,dateAdded:date,tags:itemTags};
+            // }
     }
     surplus.items=diffArr;
     //var json = JSON.stringify(itemsArr);
