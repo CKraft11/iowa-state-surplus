@@ -46,7 +46,7 @@ for(i=0;i<surplusDb.items.length;i++){
 const fileData = fs.readFileSync(path + 'index-base.html', { encoding: "utf8" });
 const fileDataArray = fileData.split("\n");
 const newData = finalHTML.join("");
-const index = 71; // after each row to insert your data
+const index = 74; // after each row to insert your data
 
 fileDataArray.splice(index, 0, newData); // insert data into the array
 
