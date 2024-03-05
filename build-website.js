@@ -17,16 +17,18 @@ for(i=0;i<surplusDb.items.length;i++){
     let orgQuantity = Object.values(surplusDb.items[i])[2]
     let dateAdded = Object.values(surplusDb.items[i])[3]
     let tags = Object.values(surplusDb.items[i])[4]
-    console.log(itemName);
     let html = "";
     html += '                       <tr class=\"item hover\">\n';
     //html += '                          <td></td>\n'
-    html += '                          <td class=\"item-name\">\n'
-    html += '                               <div class=\"overflow-x-hidden\">'+itemName+'</div>\n'
+    html += '                          <td class=\"flex\">\n'
+    if(dateAdded == surplusDb.latestUpdate){
+        html += '                               <div class=\"tag-New text-black badge mr-1 overflow-x-hidden\">New</div>\n'
+    }
+    html += '                               <div class=\"overflow-x-hidden item-name\">'+itemName+'</div>\n'
     html += '                          </td>\n'
-    html += '                          <td class="flex flex-row">\n'
+    html += '                          <td class="flex-row">\n'
     for(j=0;j<tags.length;j++){
-        html += '                              <div class=\"font-semibold tag-' + tags[j] + ' mx-1 badge text-black\">' + tags[j] + '</div>\n';
+        html += '                              <div class=\"font-semibold tag-' + tags[j] + ' mx-1 text-black badge\">' + tags[j] + '</div>\n';
     }
     html += '                          </td>\n' 
     html += '                          <td>'+quantity+'</td>\n'
@@ -38,7 +40,6 @@ for(i=0;i<surplusDb.items.length;i++){
     html += '                              <a class=\"link-primary\" href=\"' + googleLink + '\">Search Product<a/>\n'
     html += '                          </td>\n'
     html += '                       </tr>\n'
-    console.log(i + "/" + surplusDb.items.length);
     finalHTML.push(html);
 }
 

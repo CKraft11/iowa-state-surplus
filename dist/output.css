@@ -1182,6 +1182,10 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
   background-color: #ff3b30 !important;
 }
 
+.tag-New {
+  background-color: #ff3b30 !important;
+}
+
 .tag-Office{
   background-color: #ff9500 !important;
 }
