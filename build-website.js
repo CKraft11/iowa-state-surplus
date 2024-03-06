@@ -55,3 +55,4 @@ if (index !== -1) {
   const newFileData = fileDataArray.join("\n");
   fs.writeFileSync(path + "index.html", newFileData, { encoding: "utf8" });
 }
+console.log('built index.html file');

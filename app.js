@@ -91,4 +91,5 @@ const fs = require('fs');
     fs.writeFileSync(path + 'surplus-inventory.json', JSON.stringify(surplus, null, 4));
     //onsole.log(surplus);
     await browser.close();
+    console.log('pulled latest items from surplus');
 })();
