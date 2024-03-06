@@ -1,14 +1,14 @@
 const fs = require('fs');
 
 let path = "/home/iowa-state-surplus/"
-
-let devMode = false;
-
-if(devMode == true){
-    path = ""
+let surplusDb = {};
+try{
+    surplusDb = JSON.parse(fs.readFileSync(path + 'surplus-inventory.json', 'utf8'));
+} catch {
+    surplusDb = JSON.parse(fs.readFileSync('surplus-inventory.json', 'utf8'));
+    path = "";
 }
 
-const surplusDb = JSON.parse(fs.readFileSync(path + 'surplus-inventory.json', 'utf8'));
 let finalHTML = [];
 for(i=0;i<surplusDb.items.length;i++){
     let itemName = Object.values(surplusDb.items[i])[0]
@@ -45,11 +45,13 @@ for(i=0;i<surplusDb.items.length;i++){
 
 const fileData = fs.readFileSync(path + 'index-base.html', { encoding: "utf8" });
 const fileDataArray = fileData.split("\n");
+
+const divStartRegex = /<tbody\s*>/i;
 const newData = finalHTML.join("");
-const index = 74; // after each row to insert your data
+const index = fileDataArray.findIndex(line => divStartRegex.test(line));
 
-fileDataArray.splice(index, 0, newData); // insert data into the array
-
-const newFileData = fileDataArray.join("\n"); // create the new file
-
-fs.writeFileSync(path + "index.html", newFileData, { encoding: "utf8" }); // save it
+if (index !== -1) {
+  fileDataArray.splice(index + 1, 0, newData);
+  const newFileData = fileDataArray.join("\n");
+  fs.writeFileSync(path + "index.html", newFileData, { encoding: "utf8" });
+}

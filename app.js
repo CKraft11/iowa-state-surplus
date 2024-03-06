@@ -16,13 +16,13 @@ const fs = require('fs');
     //     firstPull = true;
     // }
     let path = "/home/iowa-state-surplus/"
-
-    let devMode = false;
-
-    if(devMode == true){
-        path = ""
+    let surplusDb = {};
+    try{
+        surplusDb = JSON.parse(fs.readFileSync(path + 'surplus-inventory.json', 'utf8'));
+    } catch {
+        surplusDb = JSON.parse(fs.readFileSync('surplus-inventory.json', 'utf8'));
+        path = "";
     }
-    const surplusDb = JSON.parse(fs.readFileSync(path + 'surplus-inventory.json', 'utf8'));
     let itemNamesDb = surplusDb.items.map(a => a.itemName);
     let oQuantityDb = surplusDb.items.map(a => a.originalQuantity);
     let dateAddedDb = surplusDb.items.map(a => a.dateAdded);

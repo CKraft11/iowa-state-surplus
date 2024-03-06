@@ -5,6 +5,6 @@ git pull origin main
 node /home/iowa-state-surplus/app.js
 node /home/iowa-state-surplus/build-website.js
 git add .
-git commit -m "Compiled Changes - $date"
+git commit -m "Updates to Surplus Inventory! - $date"
 git config --global credential.helper store
 git push -u origin main
