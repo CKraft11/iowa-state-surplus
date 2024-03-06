@@ -22,7 +22,7 @@ for(i=0;i<surplusDb.items.length;i++){
     //html += '                          <td></td>\n'
     html += '                          <td class=\"flex\">\n'
     if(dateAdded == surplusDb.latestUpdate){
-        html += '                               <div class=\"tag-New text-black badge mr-1 overflow-x-hidden\">New</div>\n'
+        html += '                               <div class=\"tag-New overflow-x-clip text-black badge mr-1 overflow-x-hidden\">New</div>\n'
     }
     html += '                               <div class=\"overflow-x-hidden item-name\">'+itemName+'</div>\n'
     html += '                          </td>\n'
