@@ -75,6 +75,10 @@ const fs = require('fs');
             if(itemTags.length == 0){
                 itemTags.push("Other");
             }
+            if(itemsArr[i][0] == "[") {
+                customTag = itemsArr[i].substring(itemsArr[i].indexOf("[") + 1,, itemsArr[i].lastIndexOf("]"));
+                console.log(customTag);
+            }
             if(itemNamesDb.indexOf(itemsArr[i]) >= 0) {
                 diffArr[i] = {itemName:itemsArr[i], quantity:quantity, originalQuantity:oQuantityDb[itemNamesDb.indexOf(itemsArr[i])],dateAdded:dateAddedDb[itemNamesDb.indexOf(itemsArr[i])],tags:itemTags};
             } else {
