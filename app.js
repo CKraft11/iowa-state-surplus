@@ -23,9 +23,20 @@ const fs = require('fs');
     await page.goto("https://www.surplus.iastate.edu/sales/inventory");
     let items = await page.evaluate(() => document.querySelector('.wd-Grid-cell').innerHTML);
     let itemsArr = items.split('<br>\n');
-    let date = itemsArr[0].substring(itemsArr[0].indexOf("Updated:") + 9,itemsArr[0].indexOf("Updated: ") + 18)
-    date = date.replace(/</g, "");
-    surplus.latestUpdate = date;
+    let dateString = itemsArr[0];
+    let updateIndex = dateString.indexOf("Updated:");
+    if (updateIndex !== -1) {
+      let dateStart = updateIndex + 9; // "Updated: " is 9 characters long
+      let dateEnd = dateString.indexOf("<", dateStart);
+      if (dateEnd === -1) {
+        // If there's no "<" character, take the rest of the string
+    dateEnd = dateString.length;
+  }
+  let date = dateString.substring(dateStart, dateEnd).trim();
+  surplus.latestUpdate = date;
+} else {
+  console.log("Update date not found");
+}
     itemsArr.shift();
     itemsArr[itemsArr.length - 1] = itemsArr[itemsArr.length - 1].substring(0, itemsArr[itemsArr.length - 1].length - 6);
     itemsArr = itemsArr.filter(elm => elm);
