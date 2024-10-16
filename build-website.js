@@ -28,7 +28,7 @@ for(i=0;i<surplusDb.items.length;i++){
     html += '                          </td>\n'
     html += '                          <td class="flex-row">\n'
     for(j=0;j<tags.length;j++){
-        html += '                              <div class=\"font-semibold tag-' + tags[j] + ' mx-1 text-black badge\">' + tags[j] + '</div>\n';
+        html += '                              <div class=\"font-semibold tag-' + tags[j] + ' mx-1 text-black badge\" style=\"background-color:#b2ccd6;\">' + tags[j] + '</div>\n';
     }
     html += '                          </td>\n' 
     html += '                          <td>'+quantity+'</td>\n'
