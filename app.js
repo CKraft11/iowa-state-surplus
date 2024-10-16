@@ -24,6 +24,7 @@ const fs = require('fs');
     let items = await page.evaluate(() => document.querySelector('.wd-Grid-cell').innerHTML);
     let itemsArr = items.split('<br>\n');
     let dateString = itemsArr[0];
+    let date = "";
     let updateIndex = dateString.indexOf("Updated:");
     if (updateIndex !== -1) {
       let dateStart = updateIndex + 9; // "Updated: " is 9 characters long
@@ -32,7 +33,8 @@ const fs = require('fs');
         // If there's no "<" character, take the rest of the string
     dateEnd = dateString.length;
   }
-  let date = dateString.substring(dateStart, dateEnd).trim();
+  date = dateString.substring(dateStart, dateEnd).trim();
+  console.log(date);
   surplus.latestUpdate = date;
 } else {
   console.log("Update date not found");
@@ -78,6 +80,8 @@ const fs = require('fs');
             if(itemsArr[i][0] == "[") {
                 customTag = itemsArr[i].substring(itemsArr[i].indexOf("[") + 1, itemsArr[i].lastIndexOf("]"));
                 console.log(customTag);
+                itemTags.push(customTag);
+                itemsArr[i] = itemsArr[i].substring(itemsArr[i].indexOf("]") + 2);
             }
             if(itemNamesDb.indexOf(itemsArr[i]) >= 0) {
                 diffArr[i] = {itemName:itemsArr[i], quantity:quantity, originalQuantity:oQuantityDb[itemNamesDb.indexOf(itemsArr[i])],dateAdded:dateAddedDb[itemNamesDb.indexOf(itemsArr[i])],tags:itemTags};
