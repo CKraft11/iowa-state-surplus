@@ -76,7 +76,7 @@ const fs = require('fs');
                 itemTags.push("Other");
             }
             if(itemsArr[i][0] == "[") {
-                customTag = itemsArr[i].substring(itemsArr[i].indexOf("[") + 1,, itemsArr[i].lastIndexOf("]"));
+                customTag = itemsArr[i].substring(itemsArr[i].indexOf("[") + 1, itemsArr[i].lastIndexOf("]"));
                 console.log(customTag);
             }
             if(itemNamesDb.indexOf(itemsArr[i]) >= 0) {
