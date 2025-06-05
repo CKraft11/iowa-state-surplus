@@ -1,38 +1,10 @@
 {
-    "latestUpdate": "6/3/2025",
+    "latestUpdate": "6/5/2025",
     "items": [
         {
-            "itemName": "2 Dr File",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "2 Dr File Cabinet",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office",
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "2 Dr Lateral File",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "2 Dr Lateral File Cabinet",
-            "quantity": 1,
-            "originalQuantity": 1,
             "dateAdded": "6/3/2025",
             "tags": [
                 "Office",
@@ -76,16 +48,6 @@
             ]
         },
         {
-            "itemName": "3 Dr File Cabinet",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office",
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "3 Dr Lateral File Cabinet",
             "quantity": 1,
             "originalQuantity": 1,
@@ -93,15 +55,6 @@
             "tags": [
                 "Office",
                 "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "3 Hole Punch",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Office"
             ]
         },
         {
@@ -142,15 +95,6 @@
             ]
         },
         {
-            "itemName": "5 Dr File",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "5 Dr file",
             "quantity": 1,
             "originalQuantity": 1,
@@ -161,7 +105,7 @@
         },
         {
             "itemName": "5 Dr File Cabinet",
-            "quantity": 4,
+            "quantity": 1,
             "originalQuantity": 3,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -171,7 +115,7 @@
         },
         {
             "itemName": "5 Dr Lateral File",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -185,16 +129,6 @@
             "dateAdded": "5/9/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Atlas Of Demographics: U.S. By County By Infomap",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Other",
-                "Book"
             ]
         },
         {
@@ -293,48 +227,12 @@
             ]
         },
         {
-            "itemName": "Air Jordan Drawstring Bag",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "AirClean Systems AC624DB Dead Air Box",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Alabama Design Display w/ Case",
             "quantity": 2,
             "originalQuantity": 2,
             "dateAdded": "5/9/2025",
             "tags": [
                 "Scientific",
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Ametek Dycor QuadLink Upgrade Box",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Ametek Dycor System 1000 Quadrupole Power Supply D100MP",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
                 "Computer"
             ]
         },
@@ -355,43 +253,6 @@
             "dateAdded": "5/20/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "APC 360SX UPS",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Apple AirPort Extreme 5th Gen A1408",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple AirPort Time Capsule 3rd Gen 1TB A1355",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple Cinema Display 20\" A1081",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Computer",
-                "Apple"
             ]
         },
         {
@@ -425,30 +286,10 @@
             ]
         },
         {
-            "itemName": "Apple iMac 16,2",
-            "quantity": 1,
-            "originalQuantity": 6,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple MacBook Air 9,1 No Charger",
+            "itemName": "Apple iMac 17,1",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple MacBook Pro 15,2 No Charger",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
+            "dateAdded": "6/5/2025",
             "tags": [
                 "Computer",
                 "Apple"
@@ -470,16 +311,6 @@
             "dateAdded": "5/20/2025",
             "tags": [
                 "AV"
-            ]
-        },
-        {
-            "itemName": "ASUS 23\" Monitor",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Monitor/TV",
-                "Computer"
             ]
         },
         {
@@ -546,33 +377,6 @@
             ]
         },
         {
-            "itemName": "AV Rack",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Avaya Phone 2500YMGP",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Barbell Pad",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "BarCharts Calculus 1 Quick Study Reference Guide",
             "quantity": 2,
             "originalQuantity": 2,
@@ -591,17 +395,8 @@
             ]
         },
         {
-            "itemName": "Base Cabinet Wood 2 Section",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Basketballs",
-            "quantity": 5,
+            "quantity": 1,
             "originalQuantity": 14,
             "dateAdded": "5/20/2025",
             "tags": [
@@ -609,37 +404,10 @@
             ]
         },
         {
-            "itemName": "Bausch &amp; Lomb 0.7X-3X Microscope",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Bausch &amp; Lomb StereoZoom 4 Microscope",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "BCP Electric Oven SKY5503",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Beckman 421A Controller",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
             "tags": [
                 "Scientific"
             ]
@@ -678,16 +446,6 @@
             "dateAdded": "5/22/2025",
             "tags": [
                 "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Benchmark Angle One Stereotaxic Instrument Monitor",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific",
-                "Monitor/TV"
             ]
         },
         {
@@ -775,11 +533,20 @@
         },
         {
             "itemName": "Broom",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "5/22/2025",
             "tags": [
                 "Other"
+            ]
+        },
+        {
+            "itemName": "Brown Love Seat Couch w/ Wood Arms",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "6/5/2025",
+            "tags": [
+                "Furniture/Appliances"
             ]
         },
         {
@@ -819,28 +586,10 @@
             ]
         },
         {
-            "itemName": "Bucket",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Bundle of (6) Gray 24x12 Tiles",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Burlap Sacks 4 Pack",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/15/2025",
             "tags": [
                 "Other"
             ]
@@ -856,34 +605,6 @@
             ]
         },
         {
-            "itemName": "Canon CanoScan N670U",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Office",
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Canon GL2A Camcorder (No Battery)",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Canon Macro Twin Lite MT-24EX",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
             "itemName": "Car Bodykit Fiberglass Rear Bumper",
             "quantity": 1,
             "originalQuantity": 1,
@@ -893,35 +614,8 @@
             ]
         },
         {
-            "itemName": "Carousel Slide Tray",
-            "quantity": 5,
-            "originalQuantity": 6,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Carpet 12'8\" x 7'2\"",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Centurion CNSDS02 Drop Safe",
-            "quantity": 1,
-            "originalQuantity": 3,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Chair Black",
-            "quantity": 3,
+            "quantity": 4,
             "originalQuantity": 24,
             "dateAdded": "5/13/2025",
             "tags": [
@@ -947,24 +641,6 @@
             ]
         },
         {
-            "itemName": "Chair Gray",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Chair Green",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Chair Grey",
             "quantity": 1,
             "originalQuantity": 1,
@@ -978,15 +654,6 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "6/3/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Chair Lounge Leather Brown",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/15/2025",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -1020,7 +687,7 @@
         },
         {
             "itemName": "Chair Red",
-            "quantity": 4,
+            "quantity": 3,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -1073,16 +740,6 @@
             ]
         },
         {
-            "itemName": "Cisco SR2024C Switch",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer",
-                "Networking"
-            ]
-        },
-        {
             "itemName": "Clarke CombiVac 14",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1102,7 +759,7 @@
         },
         {
             "itemName": "Clipboards",
-            "quantity": 8,
+            "quantity": 1,
             "originalQuantity": 8,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -1165,7 +822,7 @@
         },
         {
             "itemName": "Cork Board",
-            "quantity": 4,
+            "quantity": 3,
             "originalQuantity": 2,
             "dateAdded": "5/13/2025",
             "tags": [
@@ -1192,15 +849,6 @@
             ]
         },
         {
-            "itemName": "Cricut Expression Cutting Machine",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Crimper Tool",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1219,33 +867,6 @@
             ]
         },
         {
-            "itemName": "Cup Lid Dispenser",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Custom PC",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "CyberPower CP1000AVRLCD UPS",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Danby DCR41WE-NY Mini Fridge",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1255,19 +876,19 @@
             ]
         },
         {
+            "itemName": "Dayton Electric Convection Heater 3VU33C",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "6/5/2025",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "Debitek 911M164 Mag Stripe Card Reader",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Decorative Ceramic Block",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
             "tags": [
                 "Other"
             ]
@@ -1284,7 +905,7 @@
         },
         {
             "itemName": "Dell 22\" Monitor",
-            "quantity": 50,
+            "quantity": 26,
             "originalQuantity": 22,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -1294,7 +915,7 @@
         },
         {
             "itemName": "Dell 24\" Monitor",
-            "quantity": 10,
+            "quantity": 2,
             "originalQuantity": 14,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -1333,7 +954,7 @@
         },
         {
             "itemName": "Dell D12 CFF Puck Antenna",
-            "quantity": 19,
+            "quantity": 18,
             "originalQuantity": 18,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -1342,7 +963,7 @@
         },
         {
             "itemName": "Dell K16A Dock",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 3,
             "dateAdded": "5/20/2025",
             "tags": [
@@ -1350,18 +971,8 @@
             ]
         },
         {
-            "itemName": "Dell Laser Printer 1720",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office",
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Dell Latitude 5410",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 4,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -1373,15 +984,6 @@
             "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "5/20/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude 7310 No Charger",
-            "quantity": 2,
-            "originalQuantity": 7,
-            "dateAdded": "5/9/2025",
             "tags": [
                 "Computer"
             ]
@@ -1424,18 +1026,9 @@
         },
         {
             "itemName": "Dell Latitude 7490",
-            "quantity": 21,
+            "quantity": 8,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude 7490 For Parts",
-            "quantity": 1,
-            "originalQuantity": 3,
-            "dateAdded": "5/13/2025",
             "tags": [
                 "Computer"
             ]
@@ -1445,15 +1038,6 @@
             "quantity": 2,
             "originalQuantity": 2,
             "dateAdded": "5/13/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude E5440 No Drive",
-            "quantity": 3,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
             "tags": [
                 "Computer"
             ]
@@ -1478,7 +1062,7 @@
         },
         {
             "itemName": "Dell Latitude E5470 No Drive",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/20/2025",
             "tags": [
@@ -1487,7 +1071,7 @@
         },
         {
             "itemName": "Dell Latitude E6330 For Parts",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -1513,17 +1097,8 @@
             ]
         },
         {
-            "itemName": "Dell Latitude E6430 For Parts",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Dell Latitude E6440 For Parts",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -1540,15 +1115,6 @@
             ]
         },
         {
-            "itemName": "Dell Latitude E7470 No Charger",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Dell Optiplex 5040",
             "quantity": 3,
             "originalQuantity": 3,
@@ -1558,17 +1124,8 @@
             ]
         },
         {
-            "itemName": "Dell Optiplex 7010 No Drive",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Dell Optiplex 7050",
-            "quantity": 6,
+            "quantity": 3,
             "originalQuantity": 4,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -1586,7 +1143,7 @@
         },
         {
             "itemName": "Dell Optiplex 7070",
-            "quantity": 6,
+            "quantity": 2,
             "originalQuantity": 8,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -1595,18 +1152,9 @@
         },
         {
             "itemName": "Dell Optiplex 7070 No Charger",
-            "quantity": 8,
+            "quantity": 6,
             "originalQuantity": 4,
             "dateAdded": "5/20/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Optiplex 7080",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
             "tags": [
                 "Computer"
             ]
@@ -1616,15 +1164,6 @@
             "quantity": 3,
             "originalQuantity": 3,
             "dateAdded": "5/13/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Optiplex 7440 All-in-one",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
             "tags": [
                 "Computer"
             ]
@@ -1648,15 +1187,6 @@
             ]
         },
         {
-            "itemName": "Dell Optiplex 9020 AIO",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Dell Optiplex 9020 AIO For Parts",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1667,7 +1197,7 @@
         },
         {
             "itemName": "Dell Optiplex 9020 No Drive",
-            "quantity": 12,
+            "quantity": 9,
             "originalQuantity": 6,
             "dateAdded": "5/20/2025",
             "tags": [
@@ -1676,18 +1206,9 @@
         },
         {
             "itemName": "Dell Optiplex 9030 AIO",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 4,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Optiplex 9030 All-in-one",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
             "tags": [
                 "Computer"
             ]
@@ -1703,7 +1224,7 @@
         },
         {
             "itemName": "Dell Optiplex 980 No Drive",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -1712,7 +1233,7 @@
         },
         {
             "itemName": "Dell Optiplex 990 No Drive",
-            "quantity": 5,
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "5/20/2025",
             "tags": [
@@ -1739,7 +1260,7 @@
         },
         {
             "itemName": "Dell Precision T1650 No Drive",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -1748,7 +1269,7 @@
         },
         {
             "itemName": "Dell Precision T3620",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -1757,17 +1278,8 @@
         },
         {
             "itemName": "Dell Precision T5500 For Parts",
-            "quantity": 3,
+            "quantity": 1,
             "originalQuantity": 3,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Precision T5500 No Drive",
-            "quantity": 2,
-            "originalQuantity": 5,
             "dateAdded": "5/13/2025",
             "tags": [
                 "Computer"
@@ -1775,17 +1287,8 @@
         },
         {
             "itemName": "Dell Precision Tower 3420",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Precision Tower 5810 No Drive",
             "quantity": 1,
-            "originalQuantity": 1,
+            "originalQuantity": 3,
             "dateAdded": "5/20/2025",
             "tags": [
                 "Computer"
@@ -1802,20 +1305,11 @@
         },
         {
             "itemName": "Dell Wyse 5040 AIO Thin Client",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "5/13/2025",
             "tags": [
                 "Computer"
-            ]
-        },
-        {
-            "itemName": "Desk Metal 45.5\" x 20\"",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
             ]
         },
         {
@@ -1873,6 +1367,15 @@
             ]
         },
         {
+            "itemName": "Desk Metal/Wood Top 45\" x 30\"",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "6/5/2025",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
             "itemName": "Desk Metal/Wood Top 71\" x 30\"",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1883,38 +1386,11 @@
         },
         {
             "itemName": "Desk Top Composite",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "6/3/2025",
             "tags": [
                 "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Desk Wood 56 x 33",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/22/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Desk Wood Top 60x24",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Dewalt DW9116 Charger w/ Battery",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Tools"
             ]
         },
         {
@@ -1946,24 +1422,6 @@
             ]
         },
         {
-            "itemName": "Dickey-John Grain Moisture Tester DjGMT",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Digital TZ88 Tape Drive",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Display Frame",
             "quantity": 2,
             "originalQuantity": 2,
@@ -1974,17 +1432,8 @@
             ]
         },
         {
-            "itemName": "Dorm Bed Frame w/ Drawers",
-            "quantity": 3,
-            "originalQuantity": 6,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Dorm Bedframe w/ drawers",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -2029,7 +1478,7 @@
         },
         {
             "itemName": "Eberhard Fabel 4009 Highlighters",
-            "quantity": 13,
+            "quantity": 9,
             "originalQuantity": 17,
             "dateAdded": "5/22/2025",
             "tags": [
@@ -2153,6 +1602,15 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/22/2025",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Extension Cord ~25'",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "6/5/2025",
             "tags": [
                 "Other"
             ]
@@ -2308,15 +1766,6 @@
             ]
         },
         {
-            "itemName": "Fisher Scientific Vortex Genie 2",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Fisherbrand 88861043 Nutating Mixer",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2336,7 +1785,7 @@
         },
         {
             "itemName": "Floor Lamp",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -2344,26 +1793,8 @@
             ]
         },
         {
-            "itemName": "Floss Picks 60 Pack",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Flower Pots",
-            "quantity": 7,
-            "originalQuantity": 7,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Folding Table Metal/Wood Top 47.5\" x 18\"",
-            "quantity": 5,
+            "quantity": 4,
             "originalQuantity": 5,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -2389,45 +1820,18 @@
             ]
         },
         {
-            "itemName": "Franklin Ball Pump",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Fujitsu ScanSnap S1500 Scanner",
+            "itemName": "Freezer Rack",
             "quantity": 2,
             "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
+            "dateAdded": "6/5/2025",
             "tags": [
-                "Office"
+                "Other"
             ]
         },
         {
             "itemName": "Furman PlugLock Power Strips",
-            "quantity": 11,
+            "quantity": 5,
             "originalQuantity": 11,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Futon Black Faux Leather w/ Center Arm Rest",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Gardall S-452637 Drop Safe",
-            "quantity": 1,
-            "originalQuantity": 1,
             "dateAdded": "6/3/2025",
             "tags": [
                 "Other"
@@ -2471,7 +1875,7 @@
         },
         {
             "itemName": "Gen X Global Paintball Pods",
-            "quantity": 36,
+            "quantity": 33,
             "originalQuantity": 36,
             "dateAdded": "5/20/2025",
             "tags": [
@@ -2542,12 +1946,12 @@
             ]
         },
         {
-            "itemName": "Glass Frame",
+            "itemName": "Glas-Col Heating Mantle",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "5/22/2025",
+            "dateAdded": "6/5/2025",
             "tags": [
-                "Furniture/Appliances"
+                "Scientific"
             ]
         },
         {
@@ -2579,7 +1983,7 @@
         },
         {
             "itemName": "Glasses Case",
-            "quantity": 8,
+            "quantity": 7,
             "originalQuantity": 10,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -2587,12 +1991,12 @@
             ]
         },
         {
-            "itemName": "GoldStar Dehumidifier DH40",
+            "itemName": "Gold Ring",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
+            "dateAdded": "6/5/2025",
             "tags": [
-                "Scientific"
+                "Other"
             ]
         },
         {
@@ -2615,7 +2019,7 @@
         },
         {
             "itemName": "Hammer",
-            "quantity": 4,
+            "quantity": 2,
             "originalQuantity": 8,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -2633,7 +2037,7 @@
         },
         {
             "itemName": "Headphones",
-            "quantity": 19,
+            "quantity": 17,
             "originalQuantity": 19,
             "dateAdded": "5/13/2025",
             "tags": [
@@ -2678,17 +2082,8 @@
         },
         {
             "itemName": "Heavy Duty Hose ~22'",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Heavy Duty Hose ~25'",
             "quantity": 1,
-            "originalQuantity": 1,
+            "originalQuantity": 2,
             "dateAdded": "6/3/2025",
             "tags": [
                 "Other"
@@ -2713,6 +2108,15 @@
             ]
         },
         {
+            "itemName": "HoboLoco Foot Controller",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "6/5/2025",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "Honeywell Lens Cleaning Spray",
             "quantity": 2,
             "originalQuantity": 2,
@@ -2731,30 +2135,12 @@
             ]
         },
         {
-            "itemName": "HP 05A Black Toner",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "HP 1090 Series II Liquid Chromatograph",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
             "tags": [
                 "Scientific"
-            ]
-        },
-        {
-            "itemName": "HP 17A Black Toner",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
             ]
         },
         {
@@ -2776,84 +2162,12 @@
             ]
         },
         {
-            "itemName": "HP 508A Black Toner",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP 508A Cyan Toner",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP 508A Magenta Toner",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP 508A Yellow Toner",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP 55A Black Toner",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "HP 58 Photo Ink",
-            "quantity": 5,
+            "quantity": 3,
             "originalQuantity": 5,
             "dateAdded": "6/3/2025",
             "tags": [
                 "AV"
-            ]
-        },
-        {
-            "itemName": "HP 85A Black Toner",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP 90A Black Toner",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP 950XL Black Ink",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -2866,26 +2180,8 @@
             ]
         },
         {
-            "itemName": "HP Color LaserJet 4700dtn",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP Color LaserJet CP1518ni",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "HP LaserJet 1320",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -2902,28 +2198,10 @@
             ]
         },
         {
-            "itemName": "HP LaserJet 2420d",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "HP LaserJet 4250n",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP LaserJet 500 Color MFP M570dn",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
             "tags": [
                 "Office"
             ]
@@ -2938,37 +2216,10 @@
             ]
         },
         {
-            "itemName": "HP LaserJet CP1215",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP LaserJet Enterprise MFP M631",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "HP LaserJet Flow MFP M630",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP LaserJet M401dn",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
             "tags": [
                 "Office"
             ]
@@ -3001,24 +2252,6 @@
             ]
         },
         {
-            "itemName": "HP LaserJet P4014",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP LaserJet Pro M404dn",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "HP Mini 5101 No Drive",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3029,15 +2262,6 @@
         },
         {
             "itemName": "HP Pavilion dv4 No Drive",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "HP Pavilion dv6 No Drive",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/13/2025",
@@ -3064,15 +2288,6 @@
             ]
         },
         {
-            "itemName": "Hubbell HBL360P6V04 250V Plug",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Husquvarna 125 BVX",
             "quantity": 1,
             "originalQuantity": 2,
@@ -3082,57 +2297,8 @@
             ]
         },
         {
-            "itemName": "Igloo 5 Gal Cooler",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "iMac 16,2",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "iMac 17,1",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "iMac 18,2",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "iMac 18,3",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
             "itemName": "Infinite Peripherals Infinea Tab M Scanner Case",
-            "quantity": 33,
+            "quantity": 28,
             "originalQuantity": 39,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -3159,7 +2325,7 @@
         },
         {
             "itemName": "iPhone SE 2 64GB A2275",
-            "quantity": 4,
+            "quantity": 2,
             "originalQuantity": 4,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -3186,7 +2352,7 @@
         },
         {
             "itemName": "ISU Long Sleeve T-Shirts",
-            "quantity": 43,
+            "quantity": 34,
             "originalQuantity": 48,
             "dateAdded": "5/15/2025",
             "tags": [
@@ -3195,7 +2361,7 @@
         },
         {
             "itemName": "ISU Pants",
-            "quantity": 14,
+            "quantity": 11,
             "originalQuantity": 28,
             "dateAdded": "5/15/2025",
             "tags": [
@@ -3213,7 +2379,7 @@
         },
         {
             "itemName": "ISU Shorts",
-            "quantity": 44,
+            "quantity": 40,
             "originalQuantity": 44,
             "dateAdded": "5/22/2025",
             "tags": [
@@ -3302,30 +2468,12 @@
             ]
         },
         {
-            "itemName": "Kobalt Aluminum Scoop Shovel",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Kodak Presstape Universal Splicer",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Kvidio WH201A Headphones",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "AV"
             ]
         },
         {
@@ -3347,15 +2495,6 @@
             ]
         },
         {
-            "itemName": "Large Wood Bookshelf",
-            "quantity": 2,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Lasko Oscillating Fan 2511",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3365,28 +2504,10 @@
             ]
         },
         {
-            "itemName": "LEDU L445BK Clamp-On Lamp",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Lenovo ThinkCentre M73",
-            "quantity": 5,
+            "quantity": 2,
             "originalQuantity": 7,
             "dateAdded": "5/20/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Lenovo ThinkCentre M900",
-            "quantity": 1,
-            "originalQuantity": 9,
-            "dateAdded": "5/13/2025",
             "tags": [
                 "Computer"
             ]
@@ -3410,15 +2531,6 @@
             ]
         },
         {
-            "itemName": "Lenovo ThinkPad X1 Yoga 4th Gen No Charger",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Letterboard Number &amp; Letter Set",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3429,7 +2541,7 @@
         },
         {
             "itemName": "Lifting Straps",
-            "quantity": 36,
+            "quantity": 35,
             "originalQuantity": 36,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -3446,26 +2558,8 @@
             ]
         },
         {
-            "itemName": "Linco Pressure Transmitting Filling Tank",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Logitech G613 Wireless Keyboard",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Logitech USB Headset",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -3473,18 +2567,8 @@
             ]
         },
         {
-            "itemName": "Logitech Z523 Speaker System",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "AV",
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Lounge Chair",
-            "quantity": 6,
+            "quantity": -1,
             "originalQuantity": 6,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -3528,17 +2612,8 @@
             ]
         },
         {
-            "itemName": "Manfrotto Tripod",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
             "itemName": "Manfrotto Tripod Handles",
-            "quantity": 21,
+            "quantity": 19,
             "originalQuantity": 21,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -3565,28 +2640,10 @@
             ]
         },
         {
-            "itemName": "Medify Air MA-25 Air Purifier",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Men's Nike Air Max Alpha Trainer 5 Size 11",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Metal Bookshelf w/ Glass Sliding Doors",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
+            "itemName": "Metal Bed Frame",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "6/5/2025",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -3611,36 +2668,9 @@
         },
         {
             "itemName": "Metal Rolling Workbench",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Metal Shelving Unit",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Metal Wardrobe Cabinet",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Metal Watering Can",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
             "tags": [
                 "Other"
             ]
@@ -3692,19 +2722,10 @@
             ]
         },
         {
-            "itemName": "Mini Desk Trash Can",
+            "itemName": "Misc. Mini Glass Bottles",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Mini Glass Vials 36 Pack",
-            "quantity": 3,
-            "originalQuantity": 4,
-            "dateAdded": "5/9/2025",
+            "dateAdded": "6/5/2025",
             "tags": [
                 "Other"
             ]
@@ -3720,7 +2741,7 @@
         },
         {
             "itemName": "Misc. 3.5\" Floppy Drive",
-            "quantity": 23,
+            "quantity": 18,
             "originalQuantity": 23,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -3738,7 +2759,7 @@
         },
         {
             "itemName": "Misc. Barcode Scanners",
-            "quantity": 11,
+            "quantity": 2,
             "originalQuantity": 11,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -3755,17 +2776,17 @@
             ]
         },
         {
-            "itemName": "Misc. Googly Eyes (Bag)",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
+            "itemName": "Misc. Glass Flasks",
+            "quantity": 8,
+            "originalQuantity": 8,
+            "dateAdded": "6/5/2025",
             "tags": [
-                "Other"
+                "Scientific"
             ]
         },
         {
             "itemName": "Misc. Lenovo ThinkPad Dock",
-            "quantity": 13,
+            "quantity": 10,
             "originalQuantity": 25,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -3774,7 +2795,7 @@
         },
         {
             "itemName": "Misc. Motorola Battery Chargers",
-            "quantity": 40,
+            "quantity": 38,
             "originalQuantity": 40,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -3801,7 +2822,7 @@
         },
         {
             "itemName": "Misc. USB-C Gen2 Cables",
-            "quantity": 1,
+            "quantity": 38,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -3810,7 +2831,7 @@
         },
         {
             "itemName": "Misc. Watches",
-            "quantity": 10,
+            "quantity": 8,
             "originalQuantity": 10,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -3945,59 +2966,12 @@
             ]
         },
         {
-            "itemName": "NEC P502HL-2 Projector",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Projector"
-            ]
-        },
-        {
-            "itemName": "NEC PA550W Projector",
-            "quantity": 1,
-            "originalQuantity": 3,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Projector"
-            ]
-        },
-        {
-            "itemName": "NEC PE401H Projector w/ Status Light",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Projector"
-            ]
-        },
-        {
             "itemName": "Neoprene Rubber Tubing",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/20/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "NetGear ProSafe FS108 Switch",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Computer",
-                "Networking"
-            ]
-        },
-        {
-            "itemName": "Netgear ProSafe GS108 Switch",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Computer",
-                "Networking"
             ]
         },
         {
@@ -4012,7 +2986,7 @@
         },
         {
             "itemName": "NeuroSky MW001 Mindwave Mobile Headset",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -4038,30 +3012,12 @@
             ]
         },
         {
-            "itemName": "Nightmatch Ball Pump",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Nike Air Max 97 Triple White Men's Size 11",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/20/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Nike Ball Pump",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific"
             ]
         },
         {
@@ -4074,31 +3030,12 @@
             ]
         },
         {
-            "itemName": "Nike Kyrie 7 Sz 14",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/15/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Nike PG6 Sz 10.5",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/15/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Nikon Microscope Case",
-            "quantity": 2,
-            "originalQuantity": 5,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Scientific",
-                "AV"
             ]
         },
         {
@@ -4129,17 +3066,6 @@
             ]
         },
         {
-            "itemName": "Olympus 01-QCOLOR5-RTV-R-CLR-10 Microscope Camera",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific",
-                "AV",
-                "Monitor/TV"
-            ]
-        },
-        {
             "itemName": "OmniMount 23-42\" TV Wall Mount",
             "quantity": 1,
             "originalQuantity": 1,
@@ -4167,17 +3093,8 @@
             ]
         },
         {
-            "itemName": "Overhead Bin Metal",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Overhead Light",
-            "quantity": 9,
+            "quantity": 8,
             "originalQuantity": 2,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -4195,7 +3112,7 @@
         },
         {
             "itemName": "Paint Balls 500 Count",
-            "quantity": 6,
+            "quantity": 5,
             "originalQuantity": 6,
             "dateAdded": "5/20/2025",
             "tags": [
@@ -4267,15 +3184,6 @@
             ]
         },
         {
-            "itemName": "Petzl Climbing Chalk Bag",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Pharmacia Peristaltic Pump P-1",
             "quantity": 1,
             "originalQuantity": 1,
@@ -4291,15 +3199,6 @@
             "dateAdded": "5/13/2025",
             "tags": [
                 "Scientific"
-            ]
-        },
-        {
-            "itemName": "Pink Tablecloth",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
             ]
         },
         {
@@ -4331,19 +3230,10 @@
             ]
         },
         {
-            "itemName": "Powervar ABCE1442-11 UPS",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/22/2025",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Misc. Pro Edge Precision Knife Handle",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
+            "itemName": "Pro Edge Precision Knife Handle",
+            "quantity": 29,
+            "originalQuantity": 29,
+            "dateAdded": "6/5/2025",
             "tags": [
                 "Other"
             ]
@@ -4358,41 +3248,12 @@
             ]
         },
         {
-            "itemName": "PSION Organiser II XP",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Pyrex Glass Aspirator Bottle",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/13/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Q Imaging 32-0039B-101 Megapixel Microscope Camera",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific",
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Q Imaging 32-0110A-032 Micropublisher 5.0 Microscope Camera",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific",
-                "AV"
             ]
         },
         {
@@ -4405,37 +3266,10 @@
             ]
         },
         {
-            "itemName": "Quartet Whiteboard",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "Rae Dunn Ceramic Lunch Box",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Recycle Bin",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Red &amp; Blue Mosaic Gems (Bag)",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
             "tags": [
                 "Other"
             ]
@@ -4468,12 +3302,12 @@
             ]
         },
         {
-            "itemName": "Roadmaster Helix Standard Cable System w/ Hannay Reel WD-3",
+            "itemName": "Rolling Chair Aeron Blue",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
+            "dateAdded": "6/5/2025",
             "tags": [
-                "Computer"
+                "Furniture/Appliances"
             ]
         },
         {
@@ -4504,15 +3338,6 @@
             ]
         },
         {
-            "itemName": "Rolling Chair Floral",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/15/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Rolling Chair Gray",
             "quantity": 1,
             "originalQuantity": 1,
@@ -4531,17 +3356,8 @@
             ]
         },
         {
-            "itemName": "Rolling Chair MultiColor",
-            "quantity": 4,
-            "originalQuantity": 2,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Rolling Chair Multicolor",
-            "quantity": 3,
+            "quantity": 1,
             "originalQuantity": 4,
             "dateAdded": "5/9/2025",
             "tags": [
@@ -4550,7 +3366,7 @@
         },
         {
             "itemName": "Rolling Chair Purple",
-            "quantity": 5,
+            "quantity": 4,
             "originalQuantity": 5,
             "dateAdded": "5/13/2025",
             "tags": [
@@ -4567,15 +3383,6 @@
             ]
         },
         {
-            "itemName": "Rolling Metal Rack",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Rolling Stool Grey",
             "quantity": 1,
             "originalQuantity": 1,
@@ -4585,30 +3392,12 @@
             ]
         },
         {
-            "itemName": "Rope-Handled Tub 17 Gallon",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Round Point Shovel",
-            "quantity": 3,
+            "quantity": 1,
             "originalQuantity": 3,
             "dateAdded": "6/3/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Round Wood End Table",
-            "quantity": 5,
-            "originalQuantity": 5,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Furniture/Appliances"
             ]
         },
         {
@@ -4625,15 +3414,6 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Safe Corporation 26945 Double Door Drop Safe",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
             "tags": [
                 "Other"
             ]
@@ -4675,15 +3455,6 @@
             ]
         },
         {
-            "itemName": "Scrap Computer Pallet",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Sennheiser MAT 133-S B Mic Base",
             "quantity": 1,
             "originalQuantity": 1,
@@ -4693,55 +3464,10 @@
             ]
         },
         {
-            "itemName": "Sescom MS-14 Low Impedance Mic-Splitter",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Sharp EL-1197PIII Calculator",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Shelving Metal 4 Tier Gray",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Shop-Vac 86L450 Wet/Dry Vac",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Small Rolling Side Table",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Small Rug",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/22/2025",
             "tags": [
                 "Other"
             ]
@@ -4756,30 +3482,12 @@
             ]
         },
         {
-            "itemName": "Smiths Medical Medfusion 3500 Syringe Pump",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Sparter Cooler Backpack",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Spectronics Imaging Hood w/ UV/White Converter Plate",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Scientific"
             ]
         },
         {
@@ -4793,7 +3501,7 @@
         },
         {
             "itemName": "Square Point Shovel",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -4802,7 +3510,7 @@
         },
         {
             "itemName": "Square Wood End Table",
-            "quantity": 3,
+            "quantity": 1,
             "originalQuantity": 3,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -4820,7 +3528,7 @@
         },
         {
             "itemName": "Staplers &amp; Tape Dispensers",
-            "quantity": 10,
+            "quantity": 8,
             "originalQuantity": 16,
             "dateAdded": "5/20/2025",
             "tags": [
@@ -4829,7 +3537,7 @@
         },
         {
             "itemName": "Staples",
-            "quantity": 21,
+            "quantity": 17,
             "originalQuantity": 21,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -4856,18 +3564,9 @@
         },
         {
             "itemName": "Sunglasses",
-            "quantity": 11,
+            "quantity": 6,
             "originalQuantity": 18,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Swim Goggles",
-            "quantity": 5,
-            "originalQuantity": 14,
-            "dateAdded": "5/20/2025",
             "tags": [
                 "Other"
             ]
@@ -4900,15 +3599,6 @@
             ]
         },
         {
-            "itemName": "Table Composite 70x30",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Table Metal/Wood Top 36” x 24”",
             "quantity": 1,
             "originalQuantity": 1,
@@ -4919,7 +3609,7 @@
         },
         {
             "itemName": "Table Metal/Wood Top 48\" x 24\"",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "6/3/2025",
             "tags": [
@@ -4936,37 +3626,10 @@
             ]
         },
         {
-            "itemName": "Table Metal/Wood Top 60\" x 30\"",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Table Metal/Wood Top 72\" x 24\"",
-            "quantity": 5,
-            "originalQuantity": 5,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Table Metal/Wood Top w/ Wheels 60\" x 30\"",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Table Metal/Wood Top w/ Wheels 72\" x 24\"",
-            "quantity": 8,
-            "originalQuantity": 8,
-            "dateAdded": "6/3/2025",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -4987,15 +3650,6 @@
             "dateAdded": "5/20/2025",
             "tags": [
                 "Apple"
-            ]
-        },
-        {
-            "itemName": "Tealight Candles 21 Pack",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -5041,24 +3695,6 @@
             "quantity": 2,
             "originalQuantity": 4,
             "dateAdded": "5/9/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Thatch Rake",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Thelco GCA/Precision Scientific Incubator 22-AG-9",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/15/2025",
             "tags": [
                 "Scientific"
             ]
@@ -5118,15 +3754,6 @@
             ]
         },
         {
-            "itemName": "Tripp-Lite DMA1327SD Dual Monitor Mount Adapter",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Monitor/TV"
-            ]
-        },
-        {
             "itemName": "Troy-Bilt TB635 EC Trimmer",
             "quantity": 1,
             "originalQuantity": 1,
@@ -5154,15 +3781,6 @@
             ]
         },
         {
-            "itemName": "Universal Cash Register Rolls 6 Pack",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "USG 87100 White Ceiling Tiles 10 Pack",
             "quantity": 2,
             "originalQuantity": 2,
@@ -5181,27 +3799,9 @@
             ]
         },
         {
-            "itemName": "Utilitech Space Heater NSC-7K1",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "V Force Paint Ball Mask",
             "quantity": 5,
             "originalQuantity": 5,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "VacLife Car Air Compressor",
-            "quantity": 1,
-            "originalQuantity": 1,
             "dateAdded": "5/20/2025",
             "tags": [
                 "Other"
@@ -5214,24 +3814,6 @@
             "dateAdded": "5/9/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Varian ProStar Column Oven 510",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Varian ProStar Fluorescence Detector 363",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific"
             ]
         },
         {
@@ -5254,21 +3836,11 @@
         },
         {
             "itemName": "Vega NT200 Helmet",
-            "quantity": 3,
+            "quantity": 1,
             "originalQuantity": 6,
             "dateAdded": "5/20/2025",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Venset Electronic Lift Display Stand",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Scientific",
-                "Computer"
             ]
         },
         {
@@ -5278,24 +3850,6 @@
             "dateAdded": "5/13/2025",
             "tags": [
                 "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Vintage Calecto Z2-265 Speaker",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Vintage Hydrometals Speaker",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "AV"
             ]
         },
         {
@@ -5326,21 +3880,21 @@
             ]
         },
         {
-            "itemName": "Vintage Magnavox Radio Cassette Player 8100",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
             "itemName": "Vintage Rival T620 Heater",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "6/3/2025",
             "tags": [
                 "Scientific"
+            ]
+        },
+        {
+            "itemName": "Vintage Supreme 16R Dry Ice Chipper",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "6/5/2025",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -5353,37 +3907,10 @@
             ]
         },
         {
-            "itemName": "Viper WT3SPD Air Mover",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Watering Can",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Waters 486 Tunable Absorbance Detector",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Waters 600 Multisolvent Delivery System Fluid Unit",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
             "tags": [
                 "Other"
             ]
@@ -5398,48 +3925,12 @@
             ]
         },
         {
-            "itemName": "Whirlwind Medusa Mini 6 Audio Snake",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/9/2025",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Whiteboard",
-            "quantity": 2,
+            "quantity": 3,
             "originalQuantity": 2,
             "dateAdded": "5/20/2025",
             "tags": [
                 "Office"
-            ]
-        },
-        {
-            "itemName": "Wicker Basket",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "5/13/2025",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Wilmad LabGlass 2000mL Glass Reactor",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Wire Desktop Shelf",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/15/2025",
-            "tags": [
-                "Furniture/Appliances"
             ]
         },
         {
@@ -5461,19 +3952,19 @@
             ]
         },
         {
-            "itemName": "Wood Bedframe",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/13/2025",
+            "itemName": "Wood Board",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "5/20/2025",
             "tags": [
                 "Furniture/Appliances"
             ]
         },
         {
-            "itemName": "Wood Board",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "5/20/2025",
+            "itemName": "Wood Crate",
+            "quantity": 5,
+            "originalQuantity": 5,
+            "dateAdded": "6/5/2025",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -5488,31 +3979,12 @@
             ]
         },
         {
-            "itemName": "Wood Mail Organizer",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Office",
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Wood Shelf",
             "quantity": 6,
             "originalQuantity": 1,
             "dateAdded": "5/9/2025",
             "tags": [
                 "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Yonex Badminton Shuttlecocks 3 Pack",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "5/20/2025",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -5523,15 +3995,6 @@
             "tags": [
                 "Office",
                 "Scientific"
-            ]
-        },
-        {
-            "itemName": "Zygo Joystick 6450-8504-01R",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "6/3/2025",
-            "tags": [
-                "Other"
             ]
         }
     ]
