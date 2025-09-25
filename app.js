@@ -20,7 +20,7 @@ const fs = require('fs');
     let dateAddedDb = surplusDb.items.map(a => a.dateAdded);
     
     const page = await browser.newPage();
-    await page.goto("https://www.surplus.iastate.edu/sales/inventory");
+    await page.goto("https://surplus.iastate.edu/sales/inventory");
     let items = await page.evaluate(() => document.querySelector('.wd-Grid-cell').innerHTML);
     let itemsArr = items.split('<br>\n');
     let dateString = itemsArr[0];
