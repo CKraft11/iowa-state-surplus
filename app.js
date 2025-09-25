@@ -21,8 +21,10 @@ const fs = require('fs');
     
     const page = await browser.newPage();
     await page.goto("https://surplus.iastate.edu/inventory");
-    let items = await page.evaluate(() => document.querySelector('.wd-Grid-cell').innerHTML);
-    let itemsArr = items.split('<br>\n');
+    let items = await page.evaluate(() => document.querySelector('.multi-column-content__column').innerHTML);
+    //console.log(items);
+    let itemsArr = items.split('<br>');
+    console.log(itemsArr);
     let dateString = itemsArr[0];
     let date = "";
     let updateIndex = dateString.indexOf("Updated:");
