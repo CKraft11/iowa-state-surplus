@@ -1,5 +1,5 @@
 {
-    "latestUpdate": "8/13/2026",
+    "latestUpdate": "8/18/2026",
     "items": [
         {
             "itemName": "2 Dr File Cabinet&nbsp;",
@@ -161,6 +161,15 @@
             ]
         },
         {
+            "itemName": "Acco Binder Clips Large 12 Pack&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office"
+            ]
+        },
+        {
             "itemName": "AD Instruments PowerLab 410&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -224,6 +233,15 @@
             ]
         },
         {
+            "itemName": "Aldes E110-TF Energy Recovery Ventilator&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "American Optical 395 Microscope Light Source&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -239,6 +257,15 @@
             "dateAdded": "6/25/2026",
             "tags": [
                 "Scientific"
+            ]
+        },
+        {
+            "itemName": "Americana Portable Charcoal Grill&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances"
             ]
         },
         {
@@ -279,6 +306,26 @@
             ]
         },
         {
+            "itemName": "Apple iMac 12,2 For Parts&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple iMac 13,2 No OS&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
             "itemName": "Apple iMac 14,1 No OS&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -293,6 +340,16 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "8/11/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple iMac 14,2 No OS&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Computer",
                 "Apple"
@@ -319,8 +376,18 @@
             ]
         },
         {
-            "itemName": "Apple iMac 16,2 No OS&nbsp;",
+            "itemName": "Apple iMac 16,1 No OS&nbsp;",
             "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple iMac 16,2 No OS&nbsp;",
+            "quantity": 4,
             "originalQuantity": 1,
             "dateAdded": "8/11/2026",
             "tags": [
@@ -330,7 +397,7 @@
         },
         {
             "itemName": "Apple iMac 17,1 No OS&nbsp;",
-            "quantity": 1,
+            "quantity": 4,
             "originalQuantity": 1,
             "dateAdded": "8/11/2026",
             "tags": [
@@ -349,6 +416,16 @@
             ]
         },
         {
+            "itemName": "Apple iMac 18,3&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
             "itemName": "Apple iMac 19,1&nbsp;",
             "quantity": 3,
             "originalQuantity": 2,
@@ -359,8 +436,18 @@
             ]
         },
         {
+            "itemName": "Apple iMac 19,1 No OS&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
             "itemName": "Apple iMac 19,2&nbsp;",
-            "quantity": 4,
+            "quantity": 5,
             "originalQuantity": 1,
             "dateAdded": "6/30/2026",
             "tags": [
@@ -379,11 +466,41 @@
             ]
         },
         {
+            "itemName": "Apple iMac 7,1 No OS&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple iMac 9,1 No OS&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
             "itemName": "Apple ImageWriter A9M0303&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "8/11/2026",
             "tags": [
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple iPad 6 w/Keyboard Case&nbsp;",
+            "quantity": 4,
+            "originalQuantity": 4,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
                 "Apple"
             ]
         },
@@ -447,6 +564,26 @@
             ]
         },
         {
+            "itemName": "Apple Mac Mini 3,1 No OS&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple Mac Mini 4,1 No OS&nbsp;",
+            "quantity": 4,
+            "originalQuantity": 4,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
             "itemName": "Apple Mac Pro 6,1&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -467,10 +604,50 @@
             ]
         },
         {
+            "itemName": "Apple MacBook Air 9,1 No Charger&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
             "itemName": "Apple MacBook Pro 1,1 For Parts&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "8/04/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple MacBook Pro 11,4 No OS&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple MacBook Pro 11,5 No OS&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple MacBook Pro 13,3 For Parts&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Computer",
                 "Apple"
@@ -487,10 +664,60 @@
             ]
         },
         {
+            "itemName": "Apple MacBook Pro 14,2 No Charger&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
             "itemName": "Apple MacBook Pro 14,3&nbsp;",
             "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "8/11/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple MacBook Pro 14,3 No Charger&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple MacBook Pro 15,1 No Charger&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple MacBook Pro 15,4 For Parts&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Apple MacBook Pro 16,1 No Charger&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Computer",
                 "Apple"
@@ -517,7 +744,7 @@
         },
         {
             "itemName": "Aqua Culture Aquarium Air Pumps&nbsp;",
-            "quantity": 6,
+            "quantity": 5,
             "originalQuantity": 28,
             "dateAdded": "8/06/2026",
             "tags": [
@@ -531,6 +758,42 @@
             "dateAdded": "8/06/2026",
             "tags": [
                 "Other"
+            ]
+        },
+        {
+            "itemName": "Assa Abloy 8800 Series Mortise Lockset&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "ASUS Laptop For Parts&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "ASUSTeK 1005HA For Parts&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "ASUSTeK 1005PE For Parts&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
             ]
         },
         {
@@ -633,12 +896,75 @@
             ]
         },
         {
-            "itemName": "Black &amp; Decker Vacuum Seal Rolls 2 Pack&nbsp;",
+            "itemName": "Biamp Tesira Server-IO Control Panel&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "8/13/2026",
+            "dateAdded": "8/18/2026",
             "tags": [
-                "Furniture/Appliances"
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Binder Clips Large 20 Pack&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office"
+            ]
+        },
+        {
+            "itemName": "Binder Clips Medium 20 Pack&nbsp;",
+            "quantity": 4,
+            "originalQuantity": 4,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office"
+            ]
+        },
+        {
+            "itemName": "Binder Clips Small 20 Pack&nbsp;",
+            "quantity": 4,
+            "originalQuantity": 4,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office"
+            ]
+        },
+        {
+            "itemName": "Bio-Rad 170-3902 Mini Incubation Trays&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Blanket Faux Fur&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Blanket Plaid&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Blue Hawk Braided Mason Line ~250’&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -648,6 +974,15 @@
             "dateAdded": "8/04/2026",
             "tags": [
                 "Other"
+            ]
+        },
+        {
+            "itemName": "Bonsaii L418-C Thermal Laminator&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
             ]
         },
         {
@@ -697,7 +1032,7 @@
         },
         {
             "itemName": "Boxing Gloves&nbsp;",
-            "quantity": 12,
+            "quantity": 13,
             "originalQuantity": 16,
             "dateAdded": "7/28/2026",
             "tags": [
@@ -705,10 +1040,64 @@
             ]
         },
         {
+            "itemName": "Brooks 2-1110 Flow Meter&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Brooks 2-1110-6-MSB Flow Meter&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "Brushes&nbsp;",
             "quantity": 4,
             "originalQuantity": 4,
             "dateAdded": "8/13/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Buchi Rotavapor Glass Attachment&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Buchi Rotavapor R110&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Bucket 5 Gal&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Bucket 5 Gal w/ Lid&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Other"
             ]
@@ -805,12 +1194,57 @@
             ]
         },
         {
+            "itemName": "Canon Vixia HF200 Video Camera&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "AV"
+            ]
+        },
+        {
+            "itemName": "Cardinal Poker Chips ~100 Pack&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Case Logic Disc Organizer&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office"
+            ]
+        },
+        {
             "itemName": "Cash Box Metal (No Key)&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "8/04/2026",
             "tags": [
                 "Other"
+            ]
+        },
+        {
+            "itemName": "Cash Drawer&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Cash Drawer w/ Cover&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances"
             ]
         },
         {
@@ -997,7 +1431,7 @@
         },
         {
             "itemName": "Cloth Seed Sacks (Bundle)&nbsp;",
-            "quantity": 19,
+            "quantity": 18,
             "originalQuantity": 30,
             "dateAdded": "8/11/2026",
             "tags": [
@@ -1106,6 +1540,15 @@
             ]
         },
         {
+            "itemName": "Cuisinart CBC-7200PC Coffee Maker&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
             "itemName": "Cuisinart Plastic Mixing Bowls 3 Pack&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1144,15 +1587,6 @@
             ]
         },
         {
-            "itemName": "Dayton 3M534A Motor&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "7/21/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Dehydration Chamber 10”&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1162,8 +1596,18 @@
             ]
         },
         {
+            "itemName": "Dell 1081AD KVM&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Networking"
+            ]
+        },
+        {
             "itemName": "Dell 22\" Monitor&nbsp;",
-            "quantity": 27,
+            "quantity": 30,
             "originalQuantity": 7,
             "dateAdded": "5/19/2026",
             "tags": [
@@ -1173,7 +1617,7 @@
         },
         {
             "itemName": "Dell 23\" Monitor&nbsp;",
-            "quantity": 2,
+            "quantity": 3,
             "originalQuantity": 2,
             "dateAdded": "8/11/2026",
             "tags": [
@@ -1183,9 +1627,19 @@
         },
         {
             "itemName": "Dell 24\" Monitor&nbsp;",
-            "quantity": 7,
+            "quantity": 14,
             "originalQuantity": 18,
             "dateAdded": "2/17/2026",
+            "tags": [
+                "Monitor/TV",
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell 27\" Monitor&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Monitor/TV",
                 "Computer"
@@ -1201,6 +1655,15 @@
             ]
         },
         {
+            "itemName": "Dell D6000 Dock&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
             "itemName": "Dell Inspiron 5379 For Parts&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1210,10 +1673,28 @@
             ]
         },
         {
-            "itemName": "Dell K17A Dock&nbsp;",
+            "itemName": "Dell K16A Dock&nbsp;",
             "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell K17A Dock&nbsp;",
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "6/30/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell K20A Dock&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Computer"
             ]
@@ -1223,6 +1704,15 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "8/11/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Latitude 5400&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Computer"
             ]
@@ -1247,7 +1737,7 @@
         },
         {
             "itemName": "Dell Latitude 5410 w/Charger&nbsp;",
-            "quantity": 11,
+            "quantity": 14,
             "originalQuantity": 4,
             "dateAdded": "6/02/2026",
             "tags": [
@@ -1259,6 +1749,15 @@
             "quantity": 2,
             "originalQuantity": 1,
             "dateAdded": "7/21/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Latitude 7210 2-in-1&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Computer"
             ]
@@ -1313,6 +1812,15 @@
             "quantity": 2,
             "originalQuantity": 4,
             "dateAdded": "8/11/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Latitude 7490&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Computer"
             ]
@@ -1408,6 +1916,42 @@
             ]
         },
         {
+            "itemName": "Dell Optiplex 5040&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Optiplex 7050&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Optiplex 7050 For Parts&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Optiplex 7060&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
             "itemName": "Dell Optiplex 7440 AIO&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1417,8 +1961,17 @@
             ]
         },
         {
-            "itemName": "Dell Optiplex 7490 AIO&nbsp;",
+            "itemName": "Dell Optiplex 7460 AIO&nbsp;",
             "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Optiplex 7490 AIO&nbsp;",
+            "quantity": 6,
             "originalQuantity": 5,
             "dateAdded": "7/16/2026",
             "tags": [
@@ -1432,6 +1985,69 @@
             "dateAdded": "7/28/2026",
             "tags": [
                 "Office",
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell PowerConnect 6224&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Precision 5820&nbsp;",
+            "quantity": 5,
+            "originalQuantity": 5,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Precision T7610 No Drive&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Precision Tower 3420&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Precision Tower 3420 For Parts&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Precision Tower 3620 No Drive&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Dell Precision Tower 5810&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
                 "Computer"
             ]
         },
@@ -1454,8 +2070,17 @@
             ]
         },
         {
-            "itemName": "Desk Lamp&nbsp;",
+            "itemName": "Dell XPS M1530 No Drive&nbsp;",
             "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Desk Lamp&nbsp;",
+            "quantity": 3,
             "originalQuantity": 2,
             "dateAdded": "6/23/2026",
             "tags": [
@@ -1496,6 +2121,15 @@
             "dateAdded": "8/13/2026",
             "tags": [
                 "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "DeWalt Deluxe Power Shop Radial Arm Saw (Parts Only)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Tools"
             ]
         },
         {
@@ -1564,6 +2198,24 @@
             ]
         },
         {
+            "itemName": "E-C Apparatus EC600-90 Power Supply&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "ELE 27-1115/02 Controller&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "Electrothermal MC239X1 Controller&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1582,6 +2234,54 @@
             ]
         },
         {
+            "itemName": "Eppendorf 5415D Centrifuge (Parts Only)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Eppendorf Mastercycler Pro S (Parts Only)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Epson ERC-38 B/R Ribbon Cartridges 9 Pack&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office",
+                "Furniture/Appliances",
+                "Projector"
+            ]
+        },
+        {
+            "itemName": "Epson Expression 12000XL Scanner&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office",
+                "Projector"
+            ]
+        },
+        {
+            "itemName": "Ergotron Dual Monitor Mount&nbsp;",
+            "quantity": 5,
+            "originalQuantity": 5,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Monitor/TV"
+            ]
+        },
+        {
             "itemName": "Eurotherm 808&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1597,6 +2297,15 @@
             "dateAdded": "7/28/2026",
             "tags": [
                 "Other"
+            ]
+        },
+        {
+            "itemName": "Expandable Artwork Storage Tube&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
             ]
         },
         {
@@ -1655,7 +2364,7 @@
         },
         {
             "itemName": "Extron IN1606 Scaling Presentation Switcher&nbsp;",
-            "quantity": 2,
+            "quantity": 3,
             "originalQuantity": 2,
             "dateAdded": "8/04/2026",
             "tags": [
@@ -1669,6 +2378,15 @@
             "quantity": 3,
             "originalQuantity": 3,
             "dateAdded": "8/04/2026",
+            "tags": [
+                "AV"
+            ]
+        },
+        {
+            "itemName": "Extron SMP 300 Streaming Media Processor&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "AV"
             ]
@@ -1692,19 +2410,19 @@
             ]
         },
         {
-            "itemName": "Misc. Face Shield Windows&nbsp;",
+            "itemName": "Fabric Roll&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "8/11/2026",
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Other"
             ]
         },
         {
-            "itemName": "Face Shields&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 27,
-            "dateAdded": "7/28/2026",
+            "itemName": "Face Shield Windows&nbsp;",
+            "quantity": 41,
+            "originalQuantity": 41,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Other"
             ]
@@ -1845,6 +2563,24 @@
             ]
         },
         {
+            "itemName": "Gast DOA-V191-AA Pump&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Gateway Laptop For Parts&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "GBC Shredmaster 32S-1 Shredder&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1890,6 +2626,16 @@
             ]
         },
         {
+            "itemName": "General Glassblowing Desk Paper Holder&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office",
+                "Furniture/Appliances"
+            ]
+        },
+        {
             "itemName": "Gibson Housewares China Set&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1899,10 +2645,19 @@
             ]
         },
         {
-            "itemName": "Glass Jars w/ Lids&nbsp;",
+            "itemName": "GlasFloss GDS16161 Disposable Filters&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Glass Jar w/ Lid&nbsp;",
             "quantity": 2,
-            "originalQuantity": 35,
-            "dateAdded": "7/30/2026",
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Other"
             ]
@@ -1953,6 +2708,24 @@
             ]
         },
         {
+            "itemName": "Hanging Scroll Art&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Hanging Wire Basket&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
             "itemName": "Hitachi U-2000 Spectrophotometer&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1960,6 +2733,15 @@
             "tags": [
                 "Scientific",
                 "AV"
+            ]
+        },
+        {
+            "itemName": "HP 06A Toner (Black)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office"
             ]
         },
         {
@@ -1985,6 +2767,24 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "6/30/2026",
+            "tags": [
+                "Office"
+            ]
+        },
+        {
+            "itemName": "HP 304A Toner (Black)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office"
+            ]
+        },
+        {
+            "itemName": "HP 304A Toner (Cyan)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Office"
             ]
@@ -2035,6 +2835,15 @@
             ]
         },
         {
+            "itemName": "HP G1072B Chemical Ionization Flow Controller&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "HP LaserJet 1022&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2048,6 +2857,15 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "8/04/2026",
+            "tags": [
+                "Office"
+            ]
+        },
+        {
+            "itemName": "HP LaserJet 90A Toner (Black)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Office"
             ]
@@ -2098,6 +2916,15 @@
             ]
         },
         {
+            "itemName": "HP ScanJet G4050&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office"
+            ]
+        },
+        {
             "itemName": "HP ScanJet Professional 3000&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2107,10 +2934,10 @@
             ]
         },
         {
-            "itemName": "Hybaid MK II Mini Oven&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "7/30/2026",
+            "itemName": "Humboldt HM-2325A MiniLogger&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Other"
             ]
@@ -2144,6 +2971,24 @@
             ]
         },
         {
+            "itemName": "IEC Y1742 Clinical Centrifuge&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Igloo Polar Roller Cooler w/ Wheels&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "Impact VPE-5B Varipole Extension&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2169,6 +3014,924 @@
             "dateAdded": "7/28/2026",
             "tags": [
                 "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1894 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1895 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1896 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1897 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1898 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1899 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1900 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1901 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1903 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1904 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1905 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1906 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1907 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1908 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1909 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1910 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1911 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1912 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1913 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1914 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1915 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1916 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1917 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1918 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1919 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1920 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1921 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1922 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1923 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1924 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1925 Special Edition Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1925 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1926 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1927 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1928 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1929 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1930 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1931 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1932 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1933 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1934 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1935 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1936 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1937 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1938 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1939 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1940 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1941 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1942 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1943 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1944 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1945 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1946 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1947 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1948 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1949 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1950 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1951 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1952 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1953 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1954 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1955 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1956 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1957 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1958 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State College 1959 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1960 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1961 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1962 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1963 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1964 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1965 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1966 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1967 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1968 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1969 Yearbook&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1970 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1971 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1972 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1974 Yearbook&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1975 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1976 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1977 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1978 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1979 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1980 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1981 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1982 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1983 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1984 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1985 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1986 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1987 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1988 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1989 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1990 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1991 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1992 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1993 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Iowa State University 1994 Yearbook&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "IQ IQ150 pH mV Thermometer&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Iron Craft Fence Panel 44” x 36”&nbsp;",
+            "quantity": 5,
+            "originalQuantity": 5,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -2208,6 +3971,15 @@
             ]
         },
         {
+            "itemName": "ISU Diploma Cover&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "ISU Gymnastics Equipment Bag&nbsp;",
             "quantity": 2,
             "originalQuantity": 3,
@@ -2232,6 +4004,33 @@
             "dateAdded": "8/06/2026",
             "tags": [
                 "Tools"
+            ]
+        },
+        {
+            "itemName": "Kerr Regular Mason Caps 12 Pack&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Kerr Regular Mason Caps 8 Pack&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Key Lockbox&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -2271,6 +4070,15 @@
             ]
         },
         {
+            "itemName": "Lasko Tabletop Fan&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
             "itemName": "Last Chance Archery EZ Green Bow Vice (Missing Finger Set)&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2280,10 +4088,28 @@
             ]
         },
         {
+            "itemName": "LCD Modules 14 Pack&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "LED Driver&nbsp;",
             "quantity": 2,
             "originalQuantity": 2,
             "dateAdded": "8/11/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Legrand BWH1 On-Wall Wiring Metal&nbsp;",
+            "quantity": 4,
+            "originalQuantity": 4,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Other"
             ]
@@ -2316,6 +4142,16 @@
             ]
         },
         {
+            "itemName": "Lenovo ThinkPad X201 Tablet No Drive&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances",
+                "Computer"
+            ]
+        },
+        {
             "itemName": "Lenovo ThinkPad X61 No Drive&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2326,11 +4162,32 @@
         },
         {
             "itemName": "Lexan Polycarbonate Sheets 2’ x 4’&nbsp;",
-            "quantity": 17,
+            "quantity": 15,
             "originalQuantity": 17,
             "dateAdded": "8/13/2026",
             "tags": [
                 "Other"
+            ]
+        },
+        {
+            "itemName": "LG Slim Portable DVD Writer&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances",
+                "AV",
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Linksys EG500W Switch&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Networking"
             ]
         },
         {
@@ -2357,6 +4214,16 @@
             "originalQuantity": 1,
             "dateAdded": "8/11/2026",
             "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Logitech V-UAR33 Webcam&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "AV",
                 "Computer"
             ]
         },
@@ -2406,6 +4273,15 @@
             ]
         },
         {
+            "itemName": "Luxus Thermal Dispenser&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "Made By Design KT-3215 Toaster&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2430,6 +4306,26 @@
             "dateAdded": "7/14/2026",
             "tags": [
                 "Scientific"
+            ]
+        },
+        {
+            "itemName": "Manfrotto 055XPROB Tripod w/ 700RC2 Head&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "AV",
+                "Apple"
+            ]
+        },
+        {
+            "itemName": "Manfrotto MT190XPRO3 Tripod w/ MVH500AH Head&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "AV",
+                "Apple"
             ]
         },
         {
@@ -2466,6 +4362,24 @@
             "dateAdded": "7/28/2026",
             "tags": [
                 "Scientific"
+            ]
+        },
+        {
+            "itemName": "Matheson 8240 Mass Flow Controller w/ Transducer &amp; Regulator&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Matthews B387477 Kit Stand&nbsp;",
+            "quantity": 5,
+            "originalQuantity": 5,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -2514,6 +4428,15 @@
             ]
         },
         {
+            "itemName": "Micca HD Player&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "AV"
+            ]
+        },
+        {
             "itemName": "Middle Atlantic 44U AV Rack&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2541,10 +4464,10 @@
             ]
         },
         {
-            "itemName": "Mini Picture Frames&nbsp;",
+            "itemName": "Mirror 18” x 16”&nbsp;",
             "quantity": 1,
-            "originalQuantity": 39,
-            "dateAdded": "7/28/2026",
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -2560,12 +4483,30 @@
         },
         {
             "itemName": "Misc. DVD's&nbsp;",
-            "quantity": 43,
+            "quantity": 42,
             "originalQuantity": 1,
             "dateAdded": "7/02/2026",
             "tags": [
                 "AV",
                 "Computer"
+            ]
+        },
+        {
+            "itemName": "Misc. Hand Tools&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Tools"
+            ]
+        },
+        {
+            "itemName": "Misc. Light Diodes (Box)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -2597,15 +4538,6 @@
             ]
         },
         {
-            "itemName": "Misc. QSFP Cables&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 19,
-            "dateAdded": "7/28/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Misc. Ribbon (Bag)&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2633,13 +4565,12 @@
             ]
         },
         {
-            "itemName": "Misc. Tablet Keyboard Cases&nbsp;",
-            "quantity": 4,
+            "itemName": "MoBio PowerSoil Collection Plates&nbsp;",
+            "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "6/23/2026",
+            "dateAdded": "8/18/2026",
             "tags": [
-                "Furniture/Appliances",
-                "Computer"
+                "Scientific"
             ]
         },
         {
@@ -2709,6 +4640,15 @@
             ]
         },
         {
+            "itemName": "MSI Aegis R 10SC-017US Gaming PC&nbsp;",
+            "quantity": 6,
+            "originalQuantity": 6,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "MXL AC-424 USB Microphone&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2737,6 +4677,26 @@
             ]
         },
         {
+            "itemName": "Netgear GS308 Switch&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Networking"
+            ]
+        },
+        {
+            "itemName": "Netgear ReadyNas 2100&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer",
+                "Networking"
+            ]
+        },
+        {
             "itemName": "Nike Iowa State Utility Gym Bag&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2750,6 +4710,25 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "8/11/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Nostalgia CCP510 Popcorn Machine w/ Cart&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances",
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Oculus Quest 2 Carrying Case&nbsp;",
+            "quantity": 9,
+            "originalQuantity": 9,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Other"
             ]
@@ -2801,7 +4780,7 @@
         },
         {
             "itemName": "Ortho-Glass Fiberglass Padded Splint 4” x 15”&nbsp;",
-            "quantity": 8,
+            "quantity": 7,
             "originalQuantity": 8,
             "dateAdded": "7/21/2026",
             "tags": [
@@ -2824,6 +4803,24 @@
             "dateAdded": "7/28/2026",
             "tags": [
                 "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Pan Metal (Lab Use Only)&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Pan Metal w/ Lid (Lab Use Only)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
             ]
         },
         {
@@ -2854,6 +4851,15 @@
             ]
         },
         {
+            "itemName": "PE Sprial Wrap 0.75\" Spool&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "Perkin Elmer 480 DNA Thermal Cycler&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2872,19 +4878,28 @@
             ]
         },
         {
-            "itemName": "Plastic Measuring Cup&nbsp;",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "8/13/2026",
+            "itemName": "Plastic Mixing Bowl&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/11/2026",
             "tags": [
                 "Other"
             ]
         },
         {
-            "itemName": "Plastic Mixing Bowl&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "8/11/2026",
+            "itemName": "Plastic Nursery Pots 1 Gal 13 Pack&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Plastic Nursery Pots 2 Gal 12 Pack&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Other"
             ]
@@ -2896,6 +4911,15 @@
             "dateAdded": "8/11/2026",
             "tags": [
                 "Office"
+            ]
+        },
+        {
+            "itemName": "Plastic Planter Box&nbsp;",
+            "quantity": 5,
+            "originalQuantity": 5,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -2923,6 +4947,15 @@
             "dateAdded": "7/14/2026",
             "tags": [
                 "Other"
+            ]
+        },
+        {
+            "itemName": "PowerFit Gas Pressure Washer 15” Surface Cleaner&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
             ]
         },
         {
@@ -3025,12 +5058,32 @@
             ]
         },
         {
+            "itemName": "Quikrete Blue Mix 20C Color Flakes&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "Rackmount Panel Blank&nbsp;",
             "quantity": 1,
             "originalQuantity": 6,
             "dateAdded": "7/14/2026",
             "tags": [
                 "Other"
+            ]
+        },
+        {
+            "itemName": "Radiometer Copenhagen PHM73 pH/Blood Gas Monitor&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific",
+                "AV",
+                "Monitor/TV"
             ]
         },
         {
@@ -3043,12 +5096,12 @@
             ]
         },
         {
-            "itemName": "Raincoats&nbsp;",
+            "itemName": "Razer Seiren X Microphone&nbsp;",
             "quantity": 1,
-            "originalQuantity": 17,
-            "dateAdded": "7/14/2026",
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
-                "Other"
+                "AV"
             ]
         },
         {
@@ -3107,7 +5160,7 @@
         },
         {
             "itemName": "Remotes&nbsp;",
-            "quantity": 17,
+            "quantity": 18,
             "originalQuantity": 22,
             "dateAdded": "8/04/2026",
             "tags": [
@@ -3268,6 +5321,15 @@
             ]
         },
         {
+            "itemName": "Rubbermaid 2C494 Water Cooler&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "Rubbermaid Cooler (Lab Use Only)&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3331,12 +5393,39 @@
             ]
         },
         {
+            "itemName": "Scientific Products TekPro 36 Hot Plate Stirrer&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "Scientific Sports Systems Skier's Edge Machine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "7/21/2026",
             "tags": [
                 "Scientific"
+            ]
+        },
+        {
+            "itemName": "Seed Starter Trays 4 Pack&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Seed Starter Trays 5 Pack&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -3523,11 +5612,20 @@
         },
         {
             "itemName": "Staplers&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 17,
             "dateAdded": "8/11/2026",
             "tags": [
                 "Office"
+            ]
+        },
+        {
+            "itemName": "StarTech 4-Port USB Hub 15m&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
             ]
         },
         {
@@ -3573,6 +5671,24 @@
             "dateAdded": "8/04/2026",
             "tags": [
                 "Other"
+            ]
+        },
+        {
+            "itemName": "Sunbeam MA-6400W2 Microwave&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Sunbeam SGG5701 Microwave&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Furniture/Appliances"
             ]
         },
         {
@@ -3640,6 +5756,33 @@
             ]
         },
         {
+            "itemName": "Tektronix CPS250 Power Supply&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Teledyne Isco Retriever 500 Fraction Collector&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "AV"
+            ]
+        },
+        {
+            "itemName": "Test Tube Racks&nbsp;",
+            "quantity": 46,
+            "originalQuantity": 46,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "Texas Instruments TI-84 Plus Silver Edition Calculator&nbsp;",
             "quantity": 1,
             "originalQuantity": 6,
@@ -3655,6 +5798,33 @@
             "dateAdded": "7/21/2026",
             "tags": [
                 "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Thermo Spectronic Genesys 20&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Thermolyne 37900 Culture Incubator (Parts Only)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Thermolyne SP-A1025B Hot Plate Stirrer&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
             ]
         },
         {
@@ -3700,6 +5870,24 @@
             "dateAdded": "8/11/2026",
             "tags": [
                 "Office"
+            ]
+        },
+        {
+            "itemName": "Tote (No Lid)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Tote w/ Lid&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -3775,22 +5963,21 @@
             ]
         },
         {
+            "itemName": "Ultrasonic Sensors HC-SR04 (Bag)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "USG Ceiling Tiles (Box)&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "6/16/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "UVP CC-60 Chromato-Vue Cabinet&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "8/13/2026",
-            "tags": [
-                "Furniture/Appliances",
-                "Scientific"
             ]
         },
         {
@@ -3816,6 +6003,15 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "7/28/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Veriflo 3A Blowpipe&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
             "tags": [
                 "Other"
             ]
@@ -3848,6 +6044,15 @@
             ]
         },
         {
+            "itemName": "Vintage Fairbanks Morse Check/Pak Scale&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "Vintage Macey 8 Dr File Wood&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3855,6 +6060,33 @@
             "tags": [
                 "Office",
                 "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Vintage Precision Scientific 63126 Wet Test Meter&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Vintage Shure 550L Microphone&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "AV"
+            ]
+        },
+        {
+            "itemName": "Watts Up Net Electricity Watt Meter&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
             ]
         },
         {
@@ -3913,6 +6145,15 @@
             ]
         },
         {
+            "itemName": "Wolf Light Box&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "Wood 2 Dr Lateral File&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3924,7 +6165,7 @@
         },
         {
             "itemName": "Wood Box&nbsp;",
-            "quantity": 3,
+            "quantity": 4,
             "originalQuantity": 3,
             "dateAdded": "8/13/2026",
             "tags": [
@@ -4015,12 +6256,67 @@
             ]
         },
         {
+            "itemName": "Woven Blanket Golf Pattern&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
             "itemName": "Xerox Phaser 3600 Toner&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "7/21/2026",
             "tags": [
                 "Office"
+            ]
+        },
+        {
+            "itemName": "Xerox Phaser 6180 Print Cartridge (Black)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Office",
+                "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Yamaha Headset&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Zenith Data Systems Z-Star EX No Drive&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
+            "itemName": "Zoom Handy Recorder H2&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Zoom Handy Recorder H2 w/ Power Supply&nbsp;",
+            "quantity": 5,
+            "originalQuantity": 5,
+            "dateAdded": "8/18/2026",
+            "tags": [
+                "Computer"
             ]
         },
         {
