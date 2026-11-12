@@ -1,23 +1,14 @@
 {
-    "latestUpdate": "11/10/2026",
+    "latestUpdate": "11/12/2026",
     "items": [
         {
             "itemName": "2 Dr Lateral File Cabinet&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/03/2026",
             "tags": [
                 "Office",
                 "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "2 Stair Riser&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/23/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -41,7 +32,7 @@
         },
         {
             "itemName": "3 Dr Lateral File Cabinet&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/03/2026",
             "tags": [
@@ -60,18 +51,8 @@
             ]
         },
         {
-            "itemName": "4 Dr Lateral File Cabinet&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/29/2026",
-            "tags": [
-                "Office",
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "5 Dr File Cabinet&nbsp;",
-            "quantity": 4,
+            "quantity": 3,
             "originalQuantity": 1,
             "dateAdded": "10/15/2026",
             "tags": [
@@ -118,7 +99,7 @@
         },
         {
             "itemName": "Accurian 40-1462 HPL Amplified Speaker System&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/03/2026",
             "tags": [
@@ -189,15 +170,6 @@
             ]
         },
         {
-            "itemName": "Alfred Dawson 'The Gateway, Corfe Castle' 1882&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Amber Glass Vials [Bag]&nbsp;",
             "quantity": 1,
             "originalQuantity": 2,
@@ -207,35 +179,8 @@
             ]
         },
         {
-            "itemName": "Amco Electronics Rack&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 3,
-            "dateAdded": "10/8/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Amerock Roller Catch 21 Pack&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/01/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Anchor Hocking Glass Jar w/ Lid&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Anchor Hocking Glass Measuring Cup&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -262,40 +207,10 @@
             ]
         },
         {
-            "itemName": "Apple iMac 14,2 For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple iMac 19,1&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 1,
-            "dateAdded": "9/22/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
             "itemName": "Apple iMac 19,2&nbsp;",
-            "quantity": 6,
+            "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "6/30/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple iMac 21,1&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
             "tags": [
                 "Computer",
                 "Apple"
@@ -322,16 +237,6 @@
             ]
         },
         {
-            "itemName": "Apple iPhone 13 Pro 128Gb with Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "AV",
-                "Apple"
-            ]
-        },
-        {
             "itemName": "Apple iPhone 8 Plus 256Gb with Charger&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -342,70 +247,10 @@
             ]
         },
         {
-            "itemName": "Apple MacBook Air 10,1 No Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/06/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple MacBook Air 7,2 No OS&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
             "itemName": "Apple MacBook Air 9,1 No Charger&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 5,
             "dateAdded": "9/22/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple MacBook Pro 10,2 No OS&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple MacBook Pro 11,3 No OS&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple MacBook Pro 12,1 No OS&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple MacBook Pro 14,1 No Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
             "tags": [
                 "Computer",
                 "Apple"
@@ -416,26 +261,6 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/27/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple MacBook Pro 14,3 For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Computer",
-                "Apple"
-            ]
-        },
-        {
-            "itemName": "Apple MacBook Pro 15,1 No Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "10/13/2026",
             "tags": [
                 "Computer",
                 "Apple"
@@ -453,7 +278,7 @@
         },
         {
             "itemName": "Apple Pencil (1st Gen)&nbsp;",
-            "quantity": 16,
+            "quantity": 15,
             "originalQuantity": 37,
             "dateAdded": "6/30/2026",
             "tags": [
@@ -571,24 +396,6 @@
             ]
         },
         {
-            "itemName": "Ball Basket&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Base Cabinet&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/17/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Base Cabinet Wood&nbsp;",
             "quantity": 1,
             "originalQuantity": 6,
@@ -599,7 +406,7 @@
         },
         {
             "itemName": "Baseball Gloves&nbsp;",
-            "quantity": 10,
+            "quantity": 7,
             "originalQuantity": 11,
             "dateAdded": "10/27/2026",
             "tags": [
@@ -611,15 +418,6 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/27/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Bausch &amp; Lomb 31-33-1 Projection Lamp&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -640,16 +438,6 @@
             "dateAdded": "10/13/2026",
             "tags": [
                 "Scientific"
-            ]
-        },
-        {
-            "itemName": "Belkin USB2.0 Multimedia Reader &amp; Writer&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "AV",
-                "Computer"
             ]
         },
         {
@@ -701,9 +489,18 @@
         },
         {
             "itemName": "Bison Wood Deck Tile&nbsp;",
-            "quantity": 9,
+            "quantity": 1,
             "originalQuantity": 9,
             "dateAdded": "10/30/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Black &amp; Decker Vacuum Seal Rolls 2 Pack&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -718,15 +515,6 @@
             ]
         },
         {
-            "itemName": "Bluetooth Folding Keyboard&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Bluetooth Keyboard&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -736,17 +524,8 @@
             ]
         },
         {
-            "itemName": "Bobby Flay Serving Platter&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Bolts (Bag)&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/05/2026",
             "tags": [
@@ -758,6 +537,15 @@
             "quantity": 2,
             "originalQuantity": 2,
             "dateAdded": "10/23/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Bookshelf Wood, 7 Shelves&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -817,48 +605,12 @@
             ]
         },
         {
-            "itemName": "Bucket 5 Gal&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Bulletin Board&nbsp;",
-            "quantity": 4,
+            "quantity": 3,
             "originalQuantity": 2,
             "dateAdded": "8/06/2026",
             "tags": [
                 "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Bulletin Board 48\" x 36\"&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Business Model Canvas&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/06/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Caddy EZ Riser 510 3” 2 Pack&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/30/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -869,24 +621,6 @@
             "tags": [
                 "Scientific",
                 "AV"
-            ]
-        },
-        {
-            "itemName": "Campus Sketches of Iowa State College by Wallace-Rayness&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Candle Holder&nbsp;",
-            "quantity": 6,
-            "originalQuantity": 6,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -937,17 +671,8 @@
             ]
         },
         {
-            "itemName": "Chair Bar Height Wood Red&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Chair Black&nbsp;",
-            "quantity": 5,
+            "quantity": 3,
             "originalQuantity": 1,
             "dateAdded": "8/27/2026",
             "tags": [
@@ -956,7 +681,7 @@
         },
         {
             "itemName": "Chair Blue&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/13/2026",
             "tags": [
@@ -964,26 +689,8 @@
             ]
         },
         {
-            "itemName": "Chair Brown&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "6/02/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Chair Floral&nbsp;",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "10/30/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Chair Green&nbsp;",
-            "quantity": 4,
+            "quantity": 3,
             "originalQuantity": 1,
             "dateAdded": "7/14/2026",
             "tags": [
@@ -1010,7 +717,7 @@
         },
         {
             "itemName": "Chair Orange&nbsp;",
-            "quantity": 4,
+            "quantity": 3,
             "originalQuantity": 4,
             "dateAdded": "10/30/2026",
             "tags": [
@@ -1028,7 +735,7 @@
         },
         {
             "itemName": "Chair Wood&nbsp;",
-            "quantity": 10,
+            "quantity": 5,
             "originalQuantity": 6,
             "dateAdded": "9/22/2026",
             "tags": [
@@ -1083,7 +790,7 @@
         },
         {
             "itemName": "Coffee Carafe&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/27/2026",
             "tags": [
@@ -1110,39 +817,12 @@
             ]
         },
         {
-            "itemName": "Coors USA 2 Funnel&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Coors USA 60243 Funnel&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Scientific"
-            ]
-        },
-        {
-            "itemName": "Coors USA 60319 Mortar w/ 12 Pestle&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Coorstek 60310 Mortar w/ 60311 Pestle&nbsp;",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -1155,30 +835,12 @@
             ]
         },
         {
-            "itemName": "Corning Costar Cell Culture Clusters ~50 Pack&nbsp;",
+            "itemName": "Cork Board 4x4&nbsp;",
             "quantity": 2,
             "originalQuantity": 2,
-            "dateAdded": "10/06/2026",
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Corning PC-351 Hot Plate Stirrer&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Corning PC-410 Stirrer&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
             ]
         },
         {
@@ -1200,30 +862,12 @@
             ]
         },
         {
-            "itemName": "Countertop Safety Barrier 47.5” x 30”&nbsp;",
-            "quantity": 4,
-            "originalQuantity": 4,
-            "dateAdded": "10/30/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Crown D-75 Amplifier (Parts Only)&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/03/2026",
             "tags": [
                 "AV"
-            ]
-        },
-        {
-            "itemName": "Curtain Panels (Box)&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -1245,15 +889,6 @@
             ]
         },
         {
-            "itemName": "Cylinder Clamp&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "D-Link 10/100 Wired Router&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -1265,7 +900,7 @@
         },
         {
             "itemName": "D-Link DES-108 Switch&nbsp;",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -1293,7 +928,7 @@
         },
         {
             "itemName": "Dell 22\" Monitor&nbsp;",
-            "quantity": 17,
+            "quantity": 7,
             "originalQuantity": 7,
             "dateAdded": "5/19/2026",
             "tags": [
@@ -1313,29 +948,9 @@
         },
         {
             "itemName": "Dell 24\" Monitor&nbsp;",
-            "quantity": 4,
+            "quantity": 3,
             "originalQuantity": 3,
             "dateAdded": "11/05/2026",
-            "tags": [
-                "Monitor/TV",
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell 27\" Monitor w/Power Supply&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Monitor/TV",
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell 28\" Monitor&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
             "tags": [
                 "Monitor/TV",
                 "Computer"
@@ -1361,26 +976,8 @@
             ]
         },
         {
-            "itemName": "Dell K17A Dock&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell K20A Dock&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Dell Latitude 3310 2-in-1 No Charger&nbsp;",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 1,
             "dateAdded": "10/13/2026",
             "tags": [
@@ -1398,27 +995,9 @@
         },
         {
             "itemName": "Dell Latitude 5410 w/Charger&nbsp;",
-            "quantity": 10,
+            "quantity": 5,
             "originalQuantity": 4,
             "dateAdded": "6/02/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude 5420 For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude 5480 For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
             "tags": [
                 "Computer"
             ]
@@ -1442,53 +1021,8 @@
             ]
         },
         {
-            "itemName": "Dell Latitude 7402 No Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude 7410 No Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude 7420 For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude 7420 No Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 4,
-            "dateAdded": "10/06/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude 7480 For Parts&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Dell Latitude 7480 w/Charger&nbsp;",
-            "quantity": 6,
+            "quantity": 5,
             "originalQuantity": 6,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -1497,7 +1031,7 @@
         },
         {
             "itemName": "Dell Latitude 7490 w/Charger&nbsp;",
-            "quantity": 3,
+            "quantity": 1,
             "originalQuantity": 3,
             "dateAdded": "10/06/2026",
             "tags": [
@@ -1506,7 +1040,7 @@
         },
         {
             "itemName": "Dell Latitude D620 No Drive&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "9/15/2026",
             "tags": [
@@ -1515,33 +1049,6 @@
         },
         {
             "itemName": "Dell Latitude D830 No Drive&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude E5440 No Drive&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude E5450 w/Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude E5550 w/Charger&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -1613,55 +1120,10 @@
             ]
         },
         {
-            "itemName": "Dell Latitude E7250 No Drive&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude E7250 w/Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Dell Latitude E7390 W/ Charger&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/03/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude E7450 w/Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude E7470 For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude E7470 No Drive&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
             "tags": [
                 "Computer"
             ]
@@ -1677,7 +1139,7 @@
         },
         {
             "itemName": "Dell Latitude E7470 w/Charger&nbsp;",
-            "quantity": 5,
+            "quantity": 2,
             "originalQuantity": 5,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -1686,17 +1148,8 @@
         },
         {
             "itemName": "Dell Latitude E7480 W/ Charger&nbsp;",
-            "quantity": 7,
+            "quantity": 5,
             "originalQuantity": 8,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Latitude E7490 W/ Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
             "dateAdded": "11/03/2026",
             "tags": [
                 "Computer"
@@ -1713,61 +1166,7 @@
             ]
         },
         {
-            "itemName": "Dell Optiplex 7440 AIO&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Optiplex 7450 AIO&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Dell Optiplex 7480 AIO&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Optiplex 9020 AIO For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Optiplex 9020 AIO No Drive&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Optiplex 9030 AIO No Drive&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell Optiplex7490 AIO For Parts&nbsp;",
             "quantity": 2,
             "originalQuantity": 2,
             "dateAdded": "11/03/2026",
@@ -1780,15 +1179,6 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Dell XPS 15 7590 No Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
             "tags": [
                 "Computer"
             ]
@@ -1813,7 +1203,7 @@
         },
         {
             "itemName": "Desk Metal&nbsp;",
-            "quantity": 1,
+            "quantity": 4,
             "originalQuantity": 3,
             "dateAdded": "10/30/2026",
             "tags": [
@@ -1839,21 +1229,21 @@
             ]
         },
         {
+            "itemName": "Desk Wood&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "11/12/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
             "itemName": "Dewalt DW952 VSR Drill&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/13/2026",
             "tags": [
                 "Tools"
-            ]
-        },
-        {
-            "itemName": "Dishpan&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -1876,7 +1266,7 @@
         },
         {
             "itemName": "Dom Skinex Bat&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "10/27/2026",
             "tags": [
@@ -1897,15 +1287,6 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Duracell CR2 Battery 2 Pack&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
             "tags": [
                 "Other"
             ]
@@ -1968,25 +1349,7 @@
             ]
         },
         {
-            "itemName": "Elson Glass Co. Cruet, No Stopper&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Emerson SA55NXGTE-4870 M100X Pump&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Eppendorf F45-24-11 Centrifuge Rotor&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -1999,6 +1362,15 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/27/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
+            "itemName": "Ergotron Sit/Stand Desk Topper&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -2028,54 +1400,6 @@
             "dateAdded": "11/05/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Extension Cord ~50’&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Extron DTP T HWP 231 D Wall Plate&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Extron DTP T UWP 4K 232 D Wall Plate&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Extron DVS 605 Digital Video Scaler&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific",
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Extron IN1606 Scaling Presentation Switcher&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "AV",
-                "Computer",
-                "Networking"
             ]
         },
         {
@@ -2124,33 +1448,6 @@
             ]
         },
         {
-            "itemName": "Feltboard 4'x6'&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/03/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "File Crate Plastic&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "Finis Freestyle Snorkel&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/22/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Fisher Glass Jars w/ Lids 6 Pack&nbsp;",
             "quantity": 1,
             "originalQuantity": 5,
@@ -2178,15 +1475,6 @@
             ]
         },
         {
-            "itemName": "Fisher Scientific Marathon 13K/M Centrifuge&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Fisher Scientific Power Supply&nbsp;",
             "quantity": 3,
             "originalQuantity": 2,
@@ -2194,33 +1482,6 @@
             "tags": [
                 "Scientific",
                 "Computer"
-            ]
-        },
-        {
-            "itemName": "Fisherbrand Pipet Tips&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 4,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Flaghouse Exercise Bike&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Floor Mat&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -2242,33 +1503,6 @@
             ]
         },
         {
-            "itemName": "Foam Softballs w/ Bucket &amp; Lid&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Folding Chair Metal&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Folding Chair Zero Gravity&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Folding Table 32\" x 32\"&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2278,27 +1512,9 @@
             ]
         },
         {
-            "itemName": "Food Dome Cover Plastic&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Framed &amp; Autographed Houndmouth Poster&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Framed ISU Print&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Furniture/Appliances"
@@ -2315,7 +1531,7 @@
         },
         {
             "itemName": "Framed Print&nbsp;",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "10/30/2026",
             "tags": [
@@ -2332,30 +1548,12 @@
             ]
         },
         {
-            "itemName": "French Empire Style Couch Made in 1920s&nbsp;",
+            "itemName": "FTS Systems Bio-Cool III w/ Controller&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
+            "dateAdded": "11/12/2026",
             "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Fujitsu ScanSnap S1500&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/29/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "Galanz Microwave&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Furniture/Appliances"
+                "Scientific"
             ]
         },
         {
@@ -2373,25 +1571,6 @@
             "originalQuantity": 2,
             "dateAdded": "10/13/2026",
             "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Gateway M285-E No Drive&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "GBC Electric 3 Hole Punch&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Office",
                 "Scientific"
             ]
         },
@@ -2471,6 +1650,15 @@
             ]
         },
         {
+            "itemName": "Hanna HI 9125 pH/ORP Meter&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "11/12/2026",
+            "tags": [
+                "Scientific"
+            ]
+        },
+        {
             "itemName": "Headset&nbsp;",
             "quantity": 2,
             "originalQuantity": 1,
@@ -2480,19 +1668,10 @@
             ]
         },
         {
-            "itemName": "Misc. Historical ISU Books&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Hobart C-100 Mixer&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/15/2026",
+            "itemName": "Historical ISU Books&nbsp;",
+            "quantity": 9,
+            "originalQuantity": 9,
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Other"
             ]
@@ -2511,15 +1690,6 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Hoefer TE-50X Transphor Power Lid&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/06/2026",
             "tags": [
                 "Other"
             ]
@@ -2572,44 +1742,7 @@
             ]
         },
         {
-            "itemName": "HP 27\" Monitor w/Power Supply&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Monitor/TV",
-                "Computer"
-            ]
-        },
-        {
             "itemName": "HP 27A Toner&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/06/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP 503A Toner (Cyan)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/06/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP 503A Toner (Magenta)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/06/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP 55A Toner&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/06/2026",
@@ -2654,28 +1787,10 @@
             ]
         },
         {
-            "itemName": "HP Colorado 5GB Internal Tape Drive&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "HP LaserJet 1022&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/13/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "HP LaserJet 4350&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/22/2026",
             "tags": [
                 "Office"
             ]
@@ -2753,24 +1868,6 @@
             ]
         },
         {
-            "itemName": "HP Pavilon ze4125 For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "HP ProBook 450 G2 For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "HP Q3964A Imaging Drum&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2780,17 +1877,8 @@
             ]
         },
         {
-            "itemName": "Huddly GO 1.0 Conference Camera&nbsp;",
-            "quantity": 3,
-            "originalQuantity": 6,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
             "itemName": "Hula Hoop&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 5,
             "dateAdded": "10/27/2026",
             "tags": [
@@ -2834,15 +1922,6 @@
             ]
         },
         {
-            "itemName": "IEC Damon Clinical Centrifuge&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "IEEE-488 GPIB Cable&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -2870,15 +1949,6 @@
             ]
         },
         {
-            "itemName": "Interfit COR750 Light Stand&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "IOGear GCS1734 KVMP Switch&nbsp;",
             "quantity": 2,
             "originalQuantity": 2,
@@ -2886,15 +1956,6 @@
             "tags": [
                 "Computer",
                 "Networking"
-            ]
-        },
-        {
-            "itemName": "Ironing Board&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 3,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -2917,7 +1978,7 @@
         },
         {
             "itemName": "ISU Campanile Lithography Print by Diane Cone Boody&nbsp;",
-            "quantity": 27,
+            "quantity": 26,
             "originalQuantity": 27,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -2944,7 +2005,7 @@
         },
         {
             "itemName": "ISU Campanile Roof Tile&nbsp;",
-            "quantity": 10,
+            "quantity": 3,
             "originalQuantity": 10,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -2953,20 +2014,11 @@
         },
         {
             "itemName": "Jars Plastic (No Lid)&nbsp;",
-            "quantity": 46,
+            "quantity": 44,
             "originalQuantity": 46,
             "dateAdded": "11/05/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Joby Flexible Tripod&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "AV"
             ]
         },
         {
@@ -2979,15 +2031,6 @@
             ]
         },
         {
-            "itemName": "John J Audubon, NYU Hall of Fame Bronze Medal&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "KC Paper Towel Dispenser&nbsp;",
             "quantity": 1,
             "originalQuantity": 2,
@@ -2997,28 +2040,10 @@
             ]
         },
         {
-            "itemName": "Kenmore Mini Fridge&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/13/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Keurig 2.0 Coffee Maker&nbsp;",
             "quantity": 2,
             "originalQuantity": 1,
             "dateAdded": "10/13/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Key High Vacuum BA-75 Brass Valve&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -3033,15 +2058,6 @@
             ]
         },
         {
-            "itemName": "Kimax 1000mL Glass Flask&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "King, Son &amp; Co. Floral Goblet&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3051,50 +2067,12 @@
             ]
         },
         {
-            "itemName": "Kodak i2400 Scanner&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/29/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "Kontes 2000mL Ultra-Ware HPLC Reservoir&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Kramer VM-3V Video Distributor&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Kramer VS-41AV Switcher&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "AV",
-                "Computer",
-                "Networking"
-            ]
-        },
-        {
-            "itemName": "Lab Stand&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Scientific"
             ]
         },
         {
@@ -3114,15 +2092,6 @@
             "tags": [
                 "Scientific",
                 "Computer"
-            ]
-        },
-        {
-            "itemName": "Lab-Line 2053 Multi-Blok Heater&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Scientific"
             ]
         },
         {
@@ -3153,15 +2122,6 @@
             ]
         },
         {
-            "itemName": "Lenovo ThinkPad X1 Yoga 3rd Gen No Charger&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Lenoxx Sound Phone&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3172,7 +2132,7 @@
         },
         {
             "itemName": "LG 22\" Monitor w/Power Supply&nbsp;",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -3209,16 +2169,6 @@
             ]
         },
         {
-            "itemName": "Lite-On eBAU108 DVD/CD Writer&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "AV",
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Lockers Composite Broken Door (Set of 2)&nbsp;",
             "quantity": 2,
             "originalQuantity": 2,
@@ -3247,24 +2197,6 @@
             ]
         },
         {
-            "itemName": "Louis Desplaces, 'Danae after Titian'&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Lounge Chair Blue&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/15/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Lounge Chair w/ Tray&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3283,15 +2215,6 @@
             ]
         },
         {
-            "itemName": "Lumiscope Digital Thermometer&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Magnetek 7-850095-01-OJ E-Plus AC Motor&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3307,33 +2230,6 @@
             "dateAdded": "11/03/2026",
             "tags": [
                 "Scientific"
-            ]
-        },
-        {
-            "itemName": "Mahogany Chair Made in 1880&nbsp;",
-            "quantity": 4,
-            "originalQuantity": 4,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Mahogany Chair Made in 1880 Damaged&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Mail Organizer&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/30/2026",
-            "tags": [
-                "Office"
             ]
         },
         {
@@ -3364,15 +2260,6 @@
             ]
         },
         {
-            "itemName": "Matica C320 Metal Plate Embosser Machine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Max Volkhart 'Grand Promenade', 1870-1890&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3391,6 +2278,15 @@
             ]
         },
         {
+            "itemName": "Maxline Ranger Wood Drafting Table&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "11/12/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
             "itemName": "McDavid 63308R Underwrap 2 Pack&nbsp;",
             "quantity": 1,
             "originalQuantity": 3,
@@ -3401,7 +2297,7 @@
         },
         {
             "itemName": "McDavid Braces &amp; Supports&nbsp;",
-            "quantity": 10,
+            "quantity": 6,
             "originalQuantity": 23,
             "dateAdded": "10/13/2026",
             "tags": [
@@ -3409,44 +2305,26 @@
             ]
         },
         {
-            "itemName": "Medco Ankle Weights 4 Lb&nbsp;",
+            "itemName": "McLane 137-2R-FT Edger (Parts Only)&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Other"
             ]
         },
         {
-            "itemName": "Mesh Bags (Box)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Metal Cabinet&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
+            "itemName": "Metal Folding Chairs&nbsp;",
+            "quantity": 18,
+            "originalQuantity": 18,
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
         },
         {
-            "itemName": "Metal Cutting Snips&nbsp;",
-            "quantity": 4,
-            "originalQuantity": 10,
-            "dateAdded": "10/30/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Metal Organizer&nbsp;",
-            "quantity": 3,
+            "quantity": 1,
             "originalQuantity": 3,
             "dateAdded": "4/07/2026",
             "tags": [
@@ -3463,12 +2341,12 @@
             ]
         },
         {
-            "itemName": "Microsoft Surface Pro 6 No Charger&nbsp;",
+            "itemName": "Metal Shelving, Very Tall&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
+            "dateAdded": "11/12/2026",
             "tags": [
-                "Computer"
+                "Furniture/Appliances"
             ]
         },
         {
@@ -3501,6 +2379,25 @@
             ]
         },
         {
+            "itemName": "Misc. DVD's&nbsp;",
+            "quantity": 28,
+            "originalQuantity": 28,
+            "dateAdded": "11/12/2026",
+            "tags": [
+                "AV",
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Misc. Hand Tools&nbsp;",
+            "quantity": 5,
+            "originalQuantity": 5,
+            "dateAdded": "11/12/2026",
+            "tags": [
+                "Tools"
+            ]
+        },
+        {
             "itemName": "Misc. Kitchen Utensils&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3511,7 +2408,7 @@
         },
         {
             "itemName": "Misc. Security Cameras&nbsp;",
-            "quantity": 12,
+            "quantity": 5,
             "originalQuantity": 30,
             "dateAdded": "10/13/2026",
             "tags": [
@@ -3520,7 +2417,7 @@
         },
         {
             "itemName": "Misc. Sports Balls&nbsp;",
-            "quantity": 27,
+            "quantity": 18,
             "originalQuantity": 35,
             "dateAdded": "10/27/2026",
             "tags": [
@@ -3528,12 +2425,12 @@
             ]
         },
         {
-            "itemName": "Misc. Wireless Barcode Scanners&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 10,
-            "dateAdded": "9/29/2026",
+            "itemName": "Misc. Stamps&nbsp;",
+            "quantity": 5,
+            "originalQuantity": 5,
+            "dateAdded": "11/12/2026",
             "tags": [
-                "Office"
+                "Other"
             ]
         },
         {
@@ -3552,15 +2449,6 @@
             "dateAdded": "11/03/2026",
             "tags": [
                 "Scientific"
-            ]
-        },
-        {
-            "itemName": "Mr. Coffee CG12 Coffee Maker&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
             ]
         },
         {
@@ -3603,16 +2491,6 @@
             ]
         },
         {
-            "itemName": "Netgear GS-108 Switch&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer",
-                "Networking"
-            ]
-        },
-        {
             "itemName": "Netgear GS305 Switch&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -3642,57 +2520,11 @@
         },
         {
             "itemName": "O-Cedar Sponge Mop Refill&nbsp;",
-            "quantity": 15,
+            "quantity": 12,
             "originalQuantity": 17,
             "dateAdded": "11/03/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Oculus Rift&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Oculus Rift S Face Plate&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "OfficeMax Portable File &amp; Fold Cart&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Office",
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Ohaus CT1200 Scale&nbsp;",
-            "quantity": 3,
-            "originalQuantity": 2,
-            "dateAdded": "10/13/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Olympus Hard Equipment Case&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "AV"
             ]
         },
         {
@@ -3723,17 +2555,8 @@
             ]
         },
         {
-            "itemName": "Outback Equipment Duffle Bag&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Overhead Bin&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -3742,7 +2565,7 @@
         },
         {
             "itemName": "Overhead Bin Metal&nbsp;",
-            "quantity": 4,
+            "quantity": 2,
             "originalQuantity": 5,
             "dateAdded": "6/02/2026",
             "tags": [
@@ -3777,68 +2600,12 @@
             ]
         },
         {
-            "itemName": "Panasonic DVD-S700 CD/DVD Player&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "AV",
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Panavise Benchtop Vise&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Scientific",
-                "Tools"
-            ]
-        },
-        {
             "itemName": "Parker Brass Tube Fittings 10 Pack&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/30/2026",
             "tags": [
                 "Scientific"
-            ]
-        },
-        {
-            "itemName": "Philmore ST-2000 Step-Up &amp; Down Transformer&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Phone Belt Holster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 3,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Picture Frame Wood&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Picture Hanging Wire&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/05/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -3851,37 +2618,10 @@
             ]
         },
         {
-            "itemName": "Plano Compartment Storage Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Plastic Bottles w/ Caps (Box)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Poster Board Corrugated Plastic 48” x 95”&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "10/13/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Power Strip w/ Extension Cord ~20’&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
+            "itemName": "Plastic Measuring Cup&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Other"
             ]
@@ -3905,93 +2645,6 @@
             ]
         },
         {
-            "itemName": "Presto Portable Range (Lab Use Only)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Furniture/Appliances",
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Print&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Pro Scientific PRO200 Homogenizer w/ Stand&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/22/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Procet PoE to USB-C Adapter&nbsp;",
-            "quantity": 19,
-            "originalQuantity": 28,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Computer",
-                "Networking"
-            ]
-        },
-        {
-            "itemName": "Products For Research EMI9558QB Photomultiplier Tube Socket&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific",
-                "AV",
-                "Tools"
-            ]
-        },
-        {
-            "itemName": "Products for Research Power Supply&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Products For Research R316-02 Photomultiplier Tube Socket&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific",
-                "AV",
-                "Tools"
-            ]
-        },
-        {
-            "itemName": "Projector Screen w/ Stand&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/30/2026",
-            "tags": [
-                "Projector"
-            ]
-        },
-        {
-            "itemName": "Propane Patio Heater&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/05/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "ProTeam 107314 Vacuum Filter&nbsp;",
             "quantity": 7,
             "originalQuantity": 9,
@@ -4002,17 +2655,8 @@
             ]
         },
         {
-            "itemName": "Pumpkin Decor&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Pumpkin Scraper Gloves&nbsp;",
-            "quantity": 10,
+            "quantity": 6,
             "originalQuantity": 10,
             "dateAdded": "10/30/2026",
             "tags": [
@@ -4020,26 +2664,8 @@
             ]
         },
         {
-            "itemName": "Pyrex 2000mL Glass Flask&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Pyrex Glass Measuring Cup&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Quality Park 43367 Redi-Seal Envelopes 100 Pack&nbsp;",
-            "quantity": 8,
+            "quantity": 7,
             "originalQuantity": 8,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -4056,37 +2682,10 @@
             ]
         },
         {
-            "itemName": "Rackmount AV Panel&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Rackmount Shelf&nbsp;",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Realistic CTR-73 Cassette Recorder&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Red Glass Decor&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/01/2026",
             "tags": [
                 "Other"
             ]
@@ -4137,26 +2736,8 @@
             ]
         },
         {
-            "itemName": "Ribbon to Bead Spools (Bag)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/8/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Ridgid 3927 Grinder w/ Stand&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/05/2026",
-            "tags": [
-                "Tools"
-            ]
-        },
-        {
             "itemName": "Rocstor USB Console Cable&nbsp;",
-            "quantity": 20,
+            "quantity": 18,
             "originalQuantity": 22,
             "dateAdded": "10/20/2026",
             "tags": [
@@ -4164,26 +2745,8 @@
             ]
         },
         {
-            "itemName": "Rolling Chair Aeron Black&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/05/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Rolling Chair Arron For Parts&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/29/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Rolling Chair Black&nbsp;",
-            "quantity": 8,
+            "quantity": 3,
             "originalQuantity": 1,
             "dateAdded": "8/27/2026",
             "tags": [
@@ -4192,18 +2755,9 @@
         },
         {
             "itemName": "Rolling Chair Blue&nbsp;",
-            "quantity": 10,
+            "quantity": 7,
             "originalQuantity": 4,
             "dateAdded": "9/01/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Rolling Chair Brown&nbsp;",
-            "quantity": 3,
-            "originalQuantity": 1,
-            "dateAdded": "5/5/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -4228,7 +2782,7 @@
         },
         {
             "itemName": "Rolling Chair Grey&nbsp;",
-            "quantity": 4,
+            "quantity": 2,
             "originalQuantity": 1,
             "dateAdded": "11/03/2026",
             "tags": [
@@ -4237,7 +2791,7 @@
         },
         {
             "itemName": "Rolling Chair Purple&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "9/15/2026",
             "tags": [
@@ -4246,7 +2800,7 @@
         },
         {
             "itemName": "Rolling Chair Red&nbsp;",
-            "quantity": 7,
+            "quantity": 5,
             "originalQuantity": 1,
             "dateAdded": "4/21/2026",
             "tags": [
@@ -4291,77 +2845,12 @@
             ]
         },
         {
-            "itemName": "Rubbermaid Trash Can w/ Lid&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/05/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Samsung 27\" Monitor w/Power Supply&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Monitor/TV",
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Samsung BD-J5100 Blu-Ray Player&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
-            "itemName": "Samsung DVD-V9800 VCR/DVD Player&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "AV",
-                "Computer"
-            ]
-        },
-        {
-            "itemName": "Sanyo FW32D06F TV&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Monitor/TV"
-            ]
-        },
-        {
             "itemName": "SATCO S29400 Flood Lights 6 Pack&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Schwinn 230 Exercise Bike&nbsp;",
             "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "10/27/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Scientific Products HP-A1915B Hot Plate&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
             ]
         },
         {
@@ -4369,6 +2858,15 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/27/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Sears Craftsman 32-29936 Tiller (Parts Only)&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Other"
             ]
@@ -4446,36 +2944,9 @@
             ]
         },
         {
-            "itemName": "Sharper Image S’mores Maker&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Shelf Board Wood&nbsp;",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Shelf Metal&nbsp;",
             "quantity": 2,
             "originalQuantity": 2,
-            "dateAdded": "9/15/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Shelf Wood&nbsp;",
-            "quantity": 6,
-            "originalQuantity": 4,
             "dateAdded": "9/15/2026",
             "tags": [
                 "Furniture/Appliances"
@@ -4518,51 +2989,6 @@
             ]
         },
         {
-            "itemName": "Shelving Metal 6 Tier&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Shelving Metal 7 Tier w/ Drawers&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Shelving Metal w/ Glass Doors 4 Tier&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Shop Vac Wet/Dry Vacuum&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Slug Rite Batting Tee&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Smart Electrician Twist-On Wire Connectors&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -4581,17 +3007,8 @@
             ]
         },
         {
-            "itemName": "Smith Victor Photography Umbrella&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
             "itemName": "Smith Victor Raven RS8 Light Stand&nbsp;",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -4599,19 +3016,10 @@
             ]
         },
         {
-            "itemName": "Songs of Iowa State by Sigma Delta Chi &amp; Phi Mu Alpha&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Sonics &amp; Materials VC40 Vibra Cell&nbsp;",
+            "itemName": "Snowmobile Rear Suspension Skid&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "10/30/2026",
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Other"
             ]
@@ -4627,52 +3035,13 @@
             ]
         },
         {
-            "itemName": "Sony Bravia KDL-46EX400 TV&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 3,
-            "dateAdded": "10/06/2026",
-            "tags": [
-                "AV",
-                "Monitor/TV"
-            ]
-        },
-        {
-            "itemName": "Sony Bravia KDL-52NX800 TV&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "AV",
-                "Monitor/TV"
-            ]
-        },
-        {
-            "itemName": "Sony DRX-710UL DVD/CD Drive&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "AV",
-                "Computer"
-            ]
-        },
-        {
             "itemName": "Sony DVP-SR510H CD/DVD Player&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/27/2026",
             "tags": [
                 "AV",
                 "Computer"
-            ]
-        },
-        {
-            "itemName": "Sony EVI-D70 Color Video Camera&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "AV"
             ]
         },
         {
@@ -4694,15 +3063,6 @@
             ]
         },
         {
-            "itemName": "Spectra-Physics SDG II Delay Generator&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Staco 3PN1520B Variable Autotransformer w/ Adapter&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -4712,8 +3072,17 @@
             ]
         },
         {
+            "itemName": "Stainless Cart&nbsp;",
+            "quantity": 1,
+            "originalQuantity": 1,
+            "dateAdded": "11/12/2026",
+            "tags": [
+                "Furniture/Appliances"
+            ]
+        },
+        {
             "itemName": "StarTech 8-Bay USB/eSATA Drive Enclosure&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -4730,40 +3099,21 @@
             ]
         },
         {
-            "itemName": "Sterilite 1 Dr Plastic Organizer&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "Sticks Wood Bar Stool&nbsp;",
-            "quantity": 5,
-            "originalQuantity": 5,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances",
-                "Tools"
-            ]
-        },
-        {
-            "itemName": "Sticks Wood Chair&nbsp;",
-            "quantity": 3,
-            "originalQuantity": 3,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Stool Metal&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 3,
             "dateAdded": "9/15/2026",
             "tags": [
                 "Tools"
+            ]
+        },
+        {
+            "itemName": "Storage Bottle&nbsp;",
+            "quantity": 3,
+            "originalQuantity": 3,
+            "dateAdded": "11/12/2026",
+            "tags": [
+                "Other"
             ]
         },
         {
@@ -4789,6 +3139,15 @@
             "quantity": 3,
             "originalQuantity": 3,
             "dateAdded": "11/03/2026",
+            "tags": [
+                "Other"
+            ]
+        },
+        {
+            "itemName": "Sunglasses&nbsp;",
+            "quantity": 4,
+            "originalQuantity": 4,
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Other"
             ]
@@ -4827,15 +3186,6 @@
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Swingline 3 Hole Punch&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Office"
             ]
         },
         {
@@ -4894,7 +3244,7 @@
         },
         {
             "itemName": "Table Metal/Composite Top 60\"x 30\"&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -4906,15 +3256,6 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/03/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Table Wood w/ Wheels 29\" x 19\"&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -4984,33 +3325,6 @@
             ]
         },
         {
-            "itemName": "ThorLabs S1FC1550 Fiber Coupled Laser Source&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "TLC Plates&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/05/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "TOA 900 Series II Amplifier A-903MK2&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/20/2026",
-            "tags": [
-                "AV"
-            ]
-        },
-        {
             "itemName": "TOA 900 Series II Amplifier A-906MK2&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -5029,28 +3343,10 @@
             ]
         },
         {
-            "itemName": "Trash Can Metal&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "9/22/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Trash Can Plastic&nbsp;",
-            "quantity": 4,
+            "quantity": 1,
             "originalQuantity": 4,
             "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Tree Bark Savers (Box)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/23/2026",
             "tags": [
                 "Other"
             ]
@@ -5094,42 +3390,6 @@
             ]
         },
         {
-            "itemName": "Turkish Glass Bowl&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "TV Ceiling Mount&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Monitor/TV"
-            ]
-        },
-        {
-            "itemName": "Twin Bed Sheets (Box)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Twist Ties (Box)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Typewriter Table Metal&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -5157,15 +3417,6 @@
             ]
         },
         {
-            "itemName": "Under Desk Stationary Bike&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/03/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Union Carbide Linde LN2 Container w/ Stand&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -5176,7 +3427,7 @@
         },
         {
             "itemName": "Utensil Holder&nbsp;",
-            "quantity": 1,
+            "quantity": 3,
             "originalQuantity": 3,
             "dateAdded": "11/03/2026",
             "tags": [
@@ -5184,21 +3435,13 @@
             ]
         },
         {
-            "itemName": "Utilitech 0955642 Utility Transfer Pump&nbsp;",
+            "itemName": "UVP CC-60 Chromato-Vue Cabinet&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
+            "dateAdded": "11/12/2026",
             "tags": [
+                "Furniture/Appliances",
                 "Scientific"
-            ]
-        },
-        {
-            "itemName": "Utilitech Work Light (Parts Only)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -5206,25 +3449,6 @@
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "9/15/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Varian 0531 Thermocouple Vacuum Gauge w/ Meter&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances",
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Veeco FR-38S Brass Valve&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
             ]
@@ -5285,7 +3509,7 @@
         },
         {
             "itemName": "Vivotek PZ7111 Network Camera&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/03/2026",
             "tags": [
@@ -5321,37 +3545,10 @@
             ]
         },
         {
-            "itemName": "Whatman Silica Gel TLC Plates&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/05/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Whiteboard&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/05/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "Whiteboard 48\" x 48\"&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "10/27/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "Whiteboard 48\" x 72\"&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 2,
-            "dateAdded": "10/06/2026",
             "tags": [
                 "Office"
             ]
@@ -5367,7 +3564,7 @@
         },
         {
             "itemName": "WinBridge WB001 Voice Amplifiers&nbsp;",
-            "quantity": 9,
+            "quantity": 2,
             "originalQuantity": 24,
             "dateAdded": "9/22/2026",
             "tags": [
@@ -5376,7 +3573,7 @@
         },
         {
             "itemName": "Wire Label Tags (Box)&nbsp;",
-            "quantity": 7,
+            "quantity": 3,
             "originalQuantity": 7,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -5394,10 +3591,20 @@
             ]
         },
         {
-            "itemName": "Wood Cubby, 2 Shelves&nbsp;",
+            "itemName": "Wood and Glass Display Case&nbsp;",
+            "quantity": 2,
+            "originalQuantity": 2,
+            "dateAdded": "11/12/2026",
+            "tags": [
+                "Furniture/Appliances",
+                "Computer"
+            ]
+        },
+        {
+            "itemName": "Wood Credenza&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "10/23/2026",
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Furniture/Appliances"
             ]
@@ -5412,21 +3619,22 @@
             ]
         },
         {
-            "itemName": "Wood Tri-Fold Frame&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/30/2026",
+            "itemName": "Wood File Cabinets w/ Wheels&nbsp;",
+            "quantity": 41,
+            "originalQuantity": 41,
+            "dateAdded": "11/12/2026",
             "tags": [
+                "Office",
                 "Furniture/Appliances"
             ]
         },
         {
-            "itemName": "Workbench Metal 72” x 36”&nbsp;",
+            "itemName": "Wood Side Table&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "11/05/2026",
+            "dateAdded": "11/12/2026",
             "tags": [
-                "Other"
+                "Furniture/Appliances"
             ]
         },
         {
@@ -5448,27 +3656,8 @@
             ]
         },
         {
-            "itemName": "Yawman &amp; Erbe Wood Index File w/ Slide Outs&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/23/2026",
-            "tags": [
-                "Office",
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Yonex Paddle Wrap 2 Pack&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "10/27/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Zagg Tablet Case&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -5476,28 +3665,10 @@
             ]
         },
         {
-            "itemName": "&nbsp;</p><h3>Art &amp; Objects Sale</h3><p>\"German \"\"Memories From My School Days\"\" Medallion&nbsp;",
+            "itemName": "&nbsp;</p><h3>Art &amp; Objects Sale</h3><p>14 Olive Green Glass Tumblers&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "14 Olive Green Glass Tumblers&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1870 Napoleon III 'Vampire Coin'&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
+            "dateAdded": "11/12/2026",
             "tags": [
                 "Other"
             ]
@@ -5521,25 +3692,7 @@
             ]
         },
         {
-            "itemName": "1915 Coca-Cola Co. Annual Convention Coin&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "1916 Salonika Medallion by Karl Goetz&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1928/1929 Iowa State Fair Prize Medals on Watch Fob&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -5566,61 +3719,7 @@
             ]
         },
         {
-            "itemName": "1937 Missouri Sales Tax Receipt Coin&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1938 Missouri Sales Tax Receipt Coin&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "1940 Australian Sixpence&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1940s Rooster Pin&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1950 German Pfennig 10&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1950 German Pfennig 5&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1950 German Pfenning 10&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -5638,30 +3737,12 @@
             ]
         },
         {
-            "itemName": "1960 Denmark 25 Ore&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "1965 Denmark 25 Ore&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "1966 Ukrainian Wood Turkey&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
             ]
         },
         {
@@ -5675,15 +3756,6 @@
         },
         {
             "itemName": "1971 Noritake Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1972 German Pfennig 10&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -5710,25 +3782,7 @@
             ]
         },
         {
-            "itemName": "1973 Greek 2 Drachma&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "1973 Noritake Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1973 Penny&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -5765,15 +3819,6 @@
         },
         {
             "itemName": "1976 Noritake Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1976 Owl 1 oz .999 Silver Bar&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -5845,15 +3890,6 @@
             ]
         },
         {
-            "itemName": "1979 Goebel Glass Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "1979 Noritake Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -5873,15 +3909,6 @@
         },
         {
             "itemName": "1981 Franklin Mint Egg Pendant&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1981 Noritake Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -5917,15 +3944,6 @@
             ]
         },
         {
-            "itemName": "1983 Smashed Penny&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "1984 Finnish Clay Chicken&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -5945,15 +3963,6 @@
         },
         {
             "itemName": "1985 Noritake Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1986 Nativity Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -5998,15 +4007,6 @@
             ]
         },
         {
-            "itemName": "1988 Wood Rooster Sculpture&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "1989 Noritake Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -6031,24 +4031,6 @@
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "1990 Pysanky Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1991 Michele Gilbert Folding Paper Fan&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Office"
             ]
         },
         {
@@ -6088,15 +4070,6 @@
             ]
         },
         {
-            "itemName": "1994 Isabel Bloom Egg&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "1994 Noritake Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -6106,34 +4079,7 @@
             ]
         },
         {
-            "itemName": "1995 Karg Blown Glass Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "1995 Noritake Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1996 Glass Eye Studio Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "1996 Noritake Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -6169,15 +4115,6 @@
             ]
         },
         {
-            "itemName": "1999 Isabel Bloom Hen&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "1999 Noritake Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -6188,60 +4125,6 @@
         },
         {
             "itemName": "19th C. French Glass Rooster Bell&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "2 Schlaraffia Society Pins&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "2000 Isabel Bloom Chick Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "2001 Isabel Bloom Chick&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "2001 Isabel Bloom Duckling&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "2003 Ceramic Sculpture&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "2010 Farm Drawing&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -6286,24 +4169,6 @@
             ]
         },
         {
-            "itemName": "4 Barbara Hoffman Cups and Saucers&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "60s Spanish Rooster Pin&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "A. Santini Fighting Roosters Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -6332,15 +4197,6 @@
         },
         {
             "itemName": "Adams &amp; Co. Novelty Dish&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Adams &amp; Co. Pickle Dish&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -6421,24 +4277,6 @@
             ]
         },
         {
-            "itemName": "Austrian Schlaraffia Society Pin&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Avon Cardinal Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Avon Egg Box&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -6493,15 +4331,6 @@
             ]
         },
         {
-            "itemName": "B. Mannfeld 'Aus Brandenburg' 1875&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "B. Mannfeld 'Seebach im Haardt' 1886&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -6521,15 +4350,6 @@
         },
         {
             "itemName": "Balinese Doll&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Bareuther Egg Trinket Box&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -6593,35 +4413,8 @@
         },
         {
             "itemName": "Blown Glass Egg&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Brass Chick Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Brass Cloisonne Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Brass Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
@@ -6646,15 +4439,6 @@
             ]
         },
         {
-            "itemName": "Brass Rooster Paperweight&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "Bronze Painted Turkey Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -6670,69 +4454,6 @@
             "dateAdded": "11/10/2026",
             "tags": [
                 "Office"
-            ]
-        },
-        {
-            "itemName": "Cardinal Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Carved Bone Rooster Pin&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Carved Goose Egg on Base&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Carved Wood Doll&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Carved Wood Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Carved Wood Nativity Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Ceramic Basket&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
             ]
         },
         {
@@ -6754,25 +4475,7 @@
             ]
         },
         {
-            "itemName": "Ceramic Chicken Coin Bank&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Ceramic Hen&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Ceramic Hen Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -6817,15 +4520,6 @@
             ]
         },
         {
-            "itemName": "Ceramic Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Ceramic Rooster Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -6853,25 +4547,7 @@
             ]
         },
         {
-            "itemName": "Chicken Basket&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Chicken Candle Holder&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Chicken Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -6889,61 +4565,7 @@
             ]
         },
         {
-            "itemName": "Chicken Print Block&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Chicken Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Chickens with Base&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Chinese Porcelain Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Christmas Quail Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Cinnibar Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Clay Birds&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -6962,7 +4584,7 @@
         },
         {
             "itemName": "Clay Egg&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -6988,42 +4610,6 @@
             ]
         },
         {
-            "itemName": "Clay Woman Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Cloisonne Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Cloisonne Egg Pendant&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Cloisonne Medallion Pendant&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Cloisonne Rooster Sculpture&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -7033,34 +4619,7 @@
             ]
         },
         {
-            "itemName": "Coalport Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Connecticut Co. Transit Token&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Cooperative Flint Glass Co. Tray&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Copenhagen Egg Trinket Box&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -7097,7 +4656,7 @@
         },
         {
             "itemName": "Crochet Doll&nbsp;",
-            "quantity": 5,
+            "quantity": 1,
             "originalQuantity": 5,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -7123,34 +4682,7 @@
             ]
         },
         {
-            "itemName": "Cutout Goose Egg with Winter Scene&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Cystal Egg with Etched Angel&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Czarina's Bouquet Imperial Jeweled Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Danbury Mint Egg Trinket Box&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -7186,24 +4718,6 @@
             ]
         },
         {
-            "itemName": "Decorated Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Decorated Egg on Marble Pedastal&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Decorated Emu Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -7213,84 +4727,12 @@
             ]
         },
         {
-            "itemName": "Decorated Goose Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Decorated Hummingbird Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Decorated Turkey Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Decorative Painted Copper Plate&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Decorative Spoon&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Del Marva Turkey Salt and Pepper Shakers&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Dept. 56 'American Rooster' Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Doll Baby Crib&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Doll Rocking Chair&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
             ]
         },
         {
@@ -7304,15 +4746,6 @@
         },
         {
             "itemName": "Don James Hen Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Dried Flower Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -7339,24 +4772,6 @@
             ]
         },
         {
-            "itemName": "Egg on Cord Necklace&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Egg Salt and Pepper Shakers&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Egg Sculpture&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -7375,17 +4790,8 @@
             ]
         },
         {
-            "itemName": "Emu Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Enamel Brass Egg Box&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -7393,17 +4799,8 @@
             ]
         },
         {
-            "itemName": "Enamel Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Enamel Rooster Pin&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -7412,33 +4809,6 @@
         },
         {
             "itemName": "Endo China Japan Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Estonian Folk Dolls&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Etched Crystal Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Etched Emu Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -7475,15 +4845,6 @@
         },
         {
             "itemName": "Faberge Crystal Violet Bouquet Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Faberge Hummingbird Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -7546,24 +4907,6 @@
             ]
         },
         {
-            "itemName": "Five Nested Globe Eggs&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Floral Cloisonne Egg Earrings&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Floral Porcelain Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -7573,30 +4916,12 @@
             ]
         },
         {
-            "itemName": "Folk Dance Painting&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Fostoria Glass Co. Toothpick Holder&nbsp;",
-            "quantity": 3,
+            "quantity": 2,
             "originalQuantity": 3,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
-            ]
-        },
-        {
-            "itemName": "Framed A. Lhote Print&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
             ]
         },
         {
@@ -7610,15 +4935,6 @@
         },
         {
             "itemName": "Franklin Mint 'A King Is Born' Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Franklin Mint 'Feeding the Multitudes' Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -7645,33 +4961,6 @@
             ]
         },
         {
-            "itemName": "Franklin Mint 'Sermon on the Mount' Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Franklin Mint 'The Agony in the Garden' Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Franklin Mint 'The Annunciation' Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Franklin Mint 'The Baptism' Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -7682,15 +4971,6 @@
         },
         {
             "itemName": "Franklin Mint 'The Crucifixion' Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Franklin Mint 'The Nativity' Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -7825,53 +5105,8 @@
             ]
         },
         {
-            "itemName": "Gerold Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "GG Harris Pewter Pin&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "GG Harris Turkey Pin&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Glass Egg on Base&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Glass Hen&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Glass Rooster&nbsp;",
-            "quantity": 7,
+            "quantity": 4,
             "originalQuantity": 7,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -7879,25 +5114,7 @@
             ]
         },
         {
-            "itemName": "Glazed Ceramic Hen Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Glitter Egg on Base&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Godinger Shannon Crystal Vase&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -7969,15 +5186,6 @@
             ]
         },
         {
-            "itemName": "H.C. Jensen 1922 Egg Cooker&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Hagen Renaker Chicken Figurines&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -8014,42 +5222,6 @@
             ]
         },
         {
-            "itemName": "Handcast Pewter Plate&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Hanging Painted Chinese Scroll&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Hanna Nickel Mine Medallion&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Haviland Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Hen and Chicks Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -8060,17 +5232,8 @@
         },
         {
             "itemName": "Hen Figurine&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Hen Print Block&nbsp;",
             "quantity": 1,
-            "originalQuantity": 1,
+            "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
@@ -8087,15 +5250,6 @@
         },
         {
             "itemName": "Homco Rooster and Hen Figurines&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Hong Kong Bronze Rooster&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -8131,24 +5285,6 @@
             ]
         },
         {
-            "itemName": "Indonesian Wood Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Irish Porcelain Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Italian Ceramic Rooster&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -8176,43 +5312,7 @@
             ]
         },
         {
-            "itemName": "Italian Plastic Chicken Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Italian Rooster Sculpture&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Italian Turkey Tureen&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Jade Chick with Base&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Jade Chicken&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -8240,60 +5340,6 @@
         },
         {
             "itemName": "Japanese School Girl Doll&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Japanese Tea Set&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Jeweled Quail Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Johillco Turkey Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "John Huesby 'The Ring of Life'&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Journal Des Dames 1860 Print&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Kaiser Egg Trinket Box&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -8374,15 +5420,6 @@
             ]
         },
         {
-            "itemName": "Lefton Hen Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Lefton Rooster&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -8410,25 +5447,7 @@
             ]
         },
         {
-            "itemName": "Lenwile Ardalt Glass Rooster Paperweight&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
             "itemName": "Limoges Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Limoges Porcelain Egg Trinket Box&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -8455,51 +5474,6 @@
             ]
         },
         {
-            "itemName": "Lorenz Ritter 'A. Durer House'&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Lorenz Ritter 'An Der Wohrder Bastei'&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Lorenz Ritter 'At the Hangman's Bridge in Nuremburg'&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Lucite Puzzle Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Madeira Wood Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Malachite Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -8519,7 +5493,7 @@
         },
         {
             "itemName": "Marble Rooster&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -8528,24 +5502,6 @@
         },
         {
             "itemName": "Marianne De Nunez 'Gasmine' Doll&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "McKee Glass Co. Cordial&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Metal Chick Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -8564,15 +5520,6 @@
         },
         {
             "itemName": "Metal Fighting Rooster Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Metal Hen Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -8600,26 +5547,8 @@
         },
         {
             "itemName": "Metal Sculpture&nbsp;",
-            "quantity": 8,
+            "quantity": 1,
             "originalQuantity": 8,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Metal Turkey Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Mexican Chicken Ashtray&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
@@ -8635,34 +5564,6 @@
             ]
         },
         {
-            "itemName": "Millefiori Glass Rooster Lamp&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances",
-                "Tools"
-            ]
-        },
-        {
-            "itemName": "Miniature Basket of Eggs&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Miniature Cow Bell Charm&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Miniature Egg&nbsp;",
             "quantity": 2,
             "originalQuantity": 2,
@@ -8673,35 +5574,8 @@
         },
         {
             "itemName": "Miniature Glass Rooster&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Miniature Metal Hen Tureen&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Miniature Painted Porcelain Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Miniature Painted Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
@@ -8717,62 +5591,7 @@
             ]
         },
         {
-            "itemName": "Minton Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Mixed Owl Tokens and Coins&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Mosaic Bead Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Mosaic Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Murano Glass Egg Paperweight&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "Murano Millefiori Egg Paperweight&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Office",
-                "Tools"
-            ]
-        },
-        {
-            "itemName": "Mushroom Chickens&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -8799,43 +5618,7 @@
             ]
         },
         {
-            "itemName": "Napcoware Turkey Salt and Pepper Shakers&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
-            "itemName": "Nativity Duck Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Nativity Egg&nbsp;",
-            "quantity": 4,
-            "originalQuantity": 4,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Navajo Clay Chicken&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Noritake Egg Trinket Box&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -8859,24 +5642,6 @@
             "dateAdded": "11/10/2026",
             "tags": [
                 "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Ostrich Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Pablo Zabal Rooster Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
             ]
         },
         {
@@ -8916,15 +5681,6 @@
             ]
         },
         {
-            "itemName": "Painted Doll Rocking Chair&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Painted Duckling Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -8944,24 +5700,6 @@
         },
         {
             "itemName": "Painted Egg in Glass Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Painted Eggs in Basket&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Painted Glass Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9016,7 +5754,7 @@
         },
         {
             "itemName": "Painted Wood Egg&nbsp;",
-            "quantity": 4,
+            "quantity": 2,
             "originalQuantity": 4,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -9024,17 +5762,8 @@
             ]
         },
         {
-            "itemName": "Pair of Chinese Painted Vases&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Palmetto Fiber Doll&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -9060,43 +5789,7 @@
             ]
         },
         {
-            "itemName": "Pewter Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Pickard China Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Plastic Rooster Plaque&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Plique-a-jour Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Plique-a-Jour Egg Earrings&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9123,24 +5816,6 @@
             ]
         },
         {
-            "itemName": "Porcelain Chick Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Porcelain Chicken Salt and Pepper Shakers&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Scientific"
-            ]
-        },
-        {
             "itemName": "Porcelain Doll&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -9151,7 +5826,7 @@
         },
         {
             "itemName": "Porcelain Egg&nbsp;",
-            "quantity": 4,
+            "quantity": 3,
             "originalQuantity": 4,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -9177,15 +5852,6 @@
             ]
         },
         {
-            "itemName": "Porcelain Egg with Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Porcelain Rooster&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -9195,25 +5861,7 @@
             ]
         },
         {
-            "itemName": "Portugese Painted Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Portugese Rooster Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Portuguese Rooster Pendant&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9232,33 +5880,6 @@
         },
         {
             "itemName": "Prussian A. H. Niemeyer Bronze Medallion&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Psanky Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Psanky Egg in Glass Case&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Pysanky Egg in Case&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9294,42 +5915,6 @@
             ]
         },
         {
-            "itemName": "Renwal Doll Buggy&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Renwal Doll Chairs&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Renwal Toy Highchair&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Resin Egg with Dried Flowers&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Rhinestoned Egg Pendant&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -9357,43 +5942,7 @@
             ]
         },
         {
-            "itemName": "Riverside Glass Works Pitcher&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Riverside Glass Works Sauce Dish&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Riverside Glass Works Sugar Bowl&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Riverside Glass Works Toothpick Holder&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Riverside Glass Works Tumbler&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9414,33 +5963,6 @@
             "itemName": "Rooster and Hen Figurine&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Rooster Figurine&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Rooster Paperweight&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Office"
-            ]
-        },
-        {
-            "itemName": "Rooster Print Block&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
@@ -9510,15 +6032,6 @@
             ]
         },
         {
-            "itemName": "Royal Franconia Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Royal Garden Imperial Jeweled Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -9528,25 +6041,7 @@
             ]
         },
         {
-            "itemName": "Royal Grafton Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Royal Tara Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Royal Worcester Egg Trinket Box&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9573,44 +6068,8 @@
             ]
         },
         {
-            "itemName": "Russian Carved Wood Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Russian Fairy Tale Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Russian Folding Icon Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Russian Gzhel Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Russian Painted Egg&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -9628,15 +6087,6 @@
         },
         {
             "itemName": "Sabino Glass Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Sabino Glass Turkey&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9708,24 +6158,6 @@
             ]
         },
         {
-            "itemName": "Schlaraffia Novus Portus Medal&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Schlaraffia Pin with Ribbon&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Schlaraffia Society Cincinnatia Copper Pin&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -9754,7 +6186,7 @@
         },
         {
             "itemName": "Schlaraffia Society Medal on Ribbon&nbsp;",
-            "quantity": 4,
+            "quantity": 3,
             "originalQuantity": 4,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -9763,15 +6195,6 @@
         },
         {
             "itemName": "Schlaraffia Society Medal with Ribbon&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Schlaraffia Society Owl Cufflinks&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9789,25 +6212,7 @@
             ]
         },
         {
-            "itemName": "Schlaraffia Society Pin&nbsp;",
-            "quantity": 2,
-            "originalQuantity": 2,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Schlaraffia Society Pin on Ribbon&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Schlaraffia Society Tin Medal&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9843,34 +6248,7 @@
             ]
         },
         {
-            "itemName": "Seattle Billiards Token&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Signed Landscape View&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Signed Portrait (Possibly J. Leisten)&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Signed View of Rothenburg Klingenturm&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -9960,42 +6338,6 @@
             ]
         },
         {
-            "itemName": "Spode Christmas Egg Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Spode Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Staffordshire Egg Trinket Box&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Stained Glass Chicken Lamp&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
             "itemName": "Sterling Silver Egg Charm Bracelet&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -10033,24 +6375,6 @@
         },
         {
             "itemName": "Stone Carved Chicken on Pedestal&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Stone Carved Egg&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Stone Carved Nativity Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -10131,61 +6455,7 @@
             ]
         },
         {
-            "itemName": "Swedish Painted Wood Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Swedish Wood Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Swiss Nesting Eggs&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Tanzanian Ebony Chicken&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Taxidermy Chick&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Tibetan Brass Rooster&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Tiger's Eye Chicken Bead&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -10230,15 +6500,6 @@
             ]
         },
         {
-            "itemName": "Toy Dresser and Bench&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "U.S. Glass Co. Bread Plate&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -10267,7 +6528,7 @@
         },
         {
             "itemName": "U.S. Glass Co. Pickle Dish&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -10278,15 +6539,6 @@
             "itemName": "U.S. Glass Co. Tumbler&nbsp;",
             "quantity": 3,
             "originalQuantity": 3,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Unengraved Copper Medallion&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
             "dateAdded": "11/10/2026",
             "tags": [
                 "Other"
@@ -10338,15 +6590,6 @@
             ]
         },
         {
-            "itemName": "View of a Town Etching&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Villaroy and Boch Egg Trinket Box&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -10371,15 +6614,6 @@
             "dateAdded": "11/10/2026",
             "tags": [
                 "Office",
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Warsaw Wood Chicken&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
                 "Furniture/Appliances"
             ]
         },
@@ -10411,15 +6645,6 @@
             ]
         },
         {
-            "itemName": "Westmoreland Milk Glass Chicken Cup&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "White Oak Pottery Hen&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -10438,33 +6663,6 @@
             ]
         },
         {
-            "itemName": "Wicker Doll Swing&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "William Unger 'The Smiling Man' 1874&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
-            "itemName": "Williraye Studios Chicken Figurine&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Other"
-            ]
-        },
-        {
             "itemName": "Winter Palace Rose Imperial Jeweled Egg&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
@@ -10475,7 +6673,7 @@
         },
         {
             "itemName": "Wood Chicken&nbsp;",
-            "quantity": 6,
+            "quantity": 1,
             "originalQuantity": 6,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -10484,7 +6682,7 @@
         },
         {
             "itemName": "Wood Chicken Figurine&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
@@ -10502,24 +6700,6 @@
         },
         {
             "itemName": "Wood Dala Chickens&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Wood Doll Buggy&nbsp;",
-            "quantity": 1,
-            "originalQuantity": 1,
-            "dateAdded": "11/10/2026",
-            "tags": [
-                "Furniture/Appliances"
-            ]
-        },
-        {
-            "itemName": "Wood Doll Chair&nbsp;",
             "quantity": 1,
             "originalQuantity": 1,
             "dateAdded": "11/10/2026",
@@ -10556,7 +6736,7 @@
         },
         {
             "itemName": "Wood Rooster&nbsp;",
-            "quantity": 2,
+            "quantity": 1,
             "originalQuantity": 2,
             "dateAdded": "11/10/2026",
             "tags": [
